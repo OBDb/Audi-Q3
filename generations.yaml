@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation (8U)"
+    start_year: 2011
+    end_year: 2018
+    description: "The original Audi Q3 was a compact luxury crossover SUV built on the Volkswagen Group A5 (PQ35) platform. It featured a design influenced by the larger Q5 but with more compact proportions. Engine options included four-cylinder TFSI petrol and TDI diesel units, with front-wheel drive or quattro all-wheel drive. A performance-oriented RS Q3 variant was introduced in 2013, featuring a turbocharged five-cylinder engine producing up to 367 HP in Performance trim. A facelift in 2014 updated the styling and technology offerings."
+
+  - name: "Second Generation (F3)"
+    start_year: 2018
+    end_year: null
+    description: "Built on the Volkswagen Group MQB platform, the second-generation Q3 grew in size with a longer wheelbase providing more interior space. It features more angular styling in line with Audi's latest design language. The interior represents a significant upgrade with digital instrumentation and improved infotainment systems. Engine options continue to include four-cylinder TFSI petrol and TDI diesel units with mild-hybrid technology available on some variants. The range includes the standard Q3, the coupe-inspired Q3 Sportback, and the high-performance RS Q3 with its distinctive five-cylinder engine producing 400 HP. The second-generation Q3 elevates the model's premium positioning with improved space, technology, and driving dynamics."
