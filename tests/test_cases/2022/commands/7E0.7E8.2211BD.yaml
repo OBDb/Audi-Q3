@@ -1,0 +1,16 @@
+command_id: 7E0.7E8.2211BD
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8056211BD0BE3
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.2172
+- response: 7E8056211BD0CAA
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.2968
+- response: 7E8056211BD0D5B
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.3676
+- response: 7E8056211BD0DEC
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4256

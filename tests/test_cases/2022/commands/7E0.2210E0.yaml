@@ -1,0 +1,24 @@
+command_id: 7E0.2210E0
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8076210E000006BAE
+  expected_values:
+    AUDI_ODO_2_V2: 27566
+    AUDI_ODO_3_V2: 27566
+    AUDI_ODO_V3: 27566
+- response: 7E8076210E000006BC3
+  expected_values:
+    AUDI_ODO_2_V2: 27587
+    AUDI_ODO_3_V2: 27587
+    AUDI_ODO_V3: 27587
+- response: 7E8076210E000006C13
+  expected_values:
+    AUDI_ODO_2_V2: 27667
+    AUDI_ODO_3_V2: 27667
+    AUDI_ODO_V3: 27667
+- response: 7E8076210E000006C9D
+  expected_values:
+    AUDI_ODO_2_V2: 27805
+    AUDI_ODO_3_V2: 27805
+    AUDI_ODO_V3: 27805

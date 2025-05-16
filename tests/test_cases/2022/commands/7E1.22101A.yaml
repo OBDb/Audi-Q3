@@ -1,0 +1,31 @@
+command_id: 7E1.22101A
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E90762101A136C0000
+  expected_values:
+    AUDI_ODO_TCM_2: 27667
+- response: 7E90762101A9D6C0000
+  expected_values:
+    AUDI_ODO_TCM_2: 27805
+- response: 7E90762101A9E6C0000
+  expected_values:
+    AUDI_ODO_TCM_2: 27806
+- response: 7E90762101A9F6C0000
+  expected_values:
+    AUDI_ODO_TCM_2: 27807
+- response: 7E90762101AAE6B0000
+  expected_values:
+    AUDI_ODO_TCM_2: 27566
+- response: 7E90762101AAF6B0000
+  expected_values:
+    AUDI_ODO_TCM_2: 27567
+- response: 7E90762101AB06B0000
+  expected_values:
+    AUDI_ODO_TCM_2: 27568
+- response: 7E90762101AC36B0000
+  expected_values:
+    AUDI_ODO_TCM_2: 27587
+- response: 7E90762101AC46B0000
+  expected_values:
+    AUDI_ODO_TCM_2: 27588
