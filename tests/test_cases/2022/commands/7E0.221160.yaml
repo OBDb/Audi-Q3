@@ -1,0 +1,20 @@
+command_id: 7E0.221160
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80762116001A340EA
+  expected_values:
+    AUDI_ODO_2_V4: 27476202
+    AUDI_ODO_HD: 27476202
+- response: 7E80762116001A393E6
+  expected_values:
+    AUDI_ODO_2_V4: 27497446
+    AUDI_ODO_HD: 27497446
+- response: 7E80762116001A4C7ED
+  expected_values:
+    AUDI_ODO_2_V4: 27576301
+    AUDI_ODO_HD: 27576301
+- response: 7E80762116001A6E41F
+  expected_values:
+    AUDI_ODO_2_V4: 27714591
+    AUDI_ODO_HD: 27714591
