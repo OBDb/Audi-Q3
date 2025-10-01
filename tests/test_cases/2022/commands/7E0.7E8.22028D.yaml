@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22028D
+test_cases:
+- expected_values:
+    AUDI_ECU_TEMP: 296.2
+  response: 7E80562028D0B92
+- expected_values:
+    AUDI_ECU_TEMP: 299.5
+  response: 7E80562028D0BB3
+- expected_values:
+    AUDI_ECU_TEMP: 300.6
+  response: 7E80562028D0BBE
+- expected_values:
+    AUDI_ECU_TEMP: 304.4
+  response: 7E80562028D0BE4
+- expected_values:
+    AUDI_ECU_TEMP: 304.9
+  response: 7E80562028D0BE9
+- expected_values:
+    AUDI_ECU_TEMP: 306
+  response: 7E80562028D0BF4
+- expected_values:
+    AUDI_ECU_TEMP: 307.5
+  response: 7E80562028D0C03
+- expected_values:
+    AUDI_ECU_TEMP: 312.5
+  response: 7E80562028D0C35
+- expected_values:
+    AUDI_ECU_TEMP: 313.1
+  response: 7E80562028D0C3B
+- expected_values:
+    AUDI_ECU_TEMP: 317.2
+  response: 7E80562028D0C64
