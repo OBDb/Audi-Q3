@@ -1,0 +1,27 @@
+command_id: 713.77D.221810|fc=1
+test_cases:
+- expected_values:
+    AUDI_HYD_BRAKE_BOOST_ACTIVE: 1
+  response: |-
+    77D100B621810FE001F
+    77D213EFFFEFFFEAAAA
+- expected_values:
+    AUDI_HYD_BRAKE_BOOST_ACTIVE: 1
+  response: |-
+    77D100B621810FE001F
+    77D2140FFFEFFFEAAAA
+- expected_values:
+    AUDI_HYD_BRAKE_BOOST_ACTIVE: 1
+  response: |-
+    77D100B621810FE001F
+    77D2142FFFEFFFEAAAA
+- expected_values:
+    AUDI_HYD_BRAKE_BOOST_ACTIVE: 1
+  response: |-
+    77D100B621810FE0020
+    77D211FFFFEFFFEAAAA
+- expected_values:
+    AUDI_HYD_BRAKE_BOOST_ACTIVE: 1
+  response: |-
+    77D100B621810FE0020
+    77D2164FFFEFFFEAAAA
