@@ -1,0 +1,42 @@
+command_id: 713.77D.221808|fc=1
+test_cases:
+- expected_values:
+    AUDI_HDC_ACTIVE: 0
+    AUDI_HDC_INCLINE: 0
+  response: 77D0762180801000000
+- expected_values:
+    AUDI_HDC_ACTIVE: 0
+    AUDI_HDC_INCLINE: 0
+  response: 77D0762180801000001
+- expected_values:
+    AUDI_HDC_ACTIVE: 0
+    AUDI_HDC_INCLINE: 0
+  response: 77D0762180801000002
+- expected_values:
+    AUDI_HDC_ACTIVE: 0
+    AUDI_HDC_INCLINE: 0
+  response: 77D0762180801000003
+- expected_values:
+    AUDI_HDC_ACTIVE: 0
+    AUDI_HDC_INCLINE: 0
+  response: 77D0762180801000004
+- expected_values:
+    AUDI_HDC_ACTIVE: 0
+    AUDI_HDC_INCLINE: 0
+  response: 77D0762180801000005
+- expected_values:
+    AUDI_HDC_ACTIVE: 0
+    AUDI_HDC_INCLINE: 0
+  response: 77D076218080100000A
+- expected_values:
+    AUDI_HDC_ACTIVE: 0
+    AUDI_HDC_INCLINE: 0
+  response: 77D076218080100000C
+- expected_values:
+    AUDI_HDC_ACTIVE: 0
+    AUDI_HDC_INCLINE: 0
+  response: 77D076218080100000F
+- expected_values:
+    AUDI_HDC_ACTIVE: 0
+    AUDI_HDC_INCLINE: 0
+  response: 77D0762180801000014
