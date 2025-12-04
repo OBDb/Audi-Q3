@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_DASH_AVG_FUEL_CONS: 14.1
   response: 77E05622299008D
+- expected_values:
+    AUDI_DASH_AVG_FUEL_CONS: 14.2
+  response: 77E05622299008E
