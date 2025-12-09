@@ -24,7 +24,7 @@ test_cases:
     AUDI_HYD_BRAKE_BOOST_ACTIVE: 1
   response: |-
     77D100B621810FE0020
-    77D211FFFFEFFFEAAAA
+    77D210FFFFEFFFEAAAA
 - expected_values:
     AUDI_HYD_BRAKE_BOOST_ACTIVE: 1
   response: |-
