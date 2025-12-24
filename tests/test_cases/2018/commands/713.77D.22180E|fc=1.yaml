@@ -12,3 +12,9 @@ test_cases:
   response: |-
     77D100962180E010001
     77D21015AADAAAAAAAA
+- expected_values:
+    AUDI_BDD_ACTIVE: 0
+    AUDI_BDD_ODO: 257
+  response: |-
+    77D100962180E010001
+    77D21019263AAAAAAAA
