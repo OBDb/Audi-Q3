@@ -8,6 +8,12 @@ test_cases:
     77D21015AADAAAAAAAA
 - expected_values:
     AUDI_BDD_ACTIVE: 0
+    AUDI_BDD_ODO: 1
+  response: |-
+    77D100962180E010000
+    77D21019263AAAAAAAA
+- expected_values:
+    AUDI_BDD_ACTIVE: 0
     AUDI_BDD_ODO: 257
   response: |-
     77D100962180E010001
@@ -17,4 +23,10 @@ test_cases:
     AUDI_BDD_ODO: 257
   response: |-
     77D100962180E010001
-    77D21019263AAAAAAAA
+    77D210192BEAAAAAAAA
+- expected_values:
+    AUDI_BDD_ACTIVE: 0
+    AUDI_BDD_ODO: 257
+  response: |-
+    77D100962180E010001
+    77D210192C0AAAAAAAA
