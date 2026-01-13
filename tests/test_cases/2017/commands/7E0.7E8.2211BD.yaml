@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211BD
+test_cases:
+- expected_values:
+    AUDI_OIL_LEVEL_WARN: 3.5748
+  response: 7E8056211BD22E9
+- expected_values:
+    AUDI_OIL_LEVEL_WARN: 3.5772
+  response: 7E8056211BD22EF
+- expected_values:
+    AUDI_OIL_LEVEL_WARN: 3.5868
+  response: 7E8056211BD2307
+- expected_values:
+    AUDI_OIL_LEVEL_WARN: 3.6148
+  response: 7E8056211BD234D
+- expected_values:
+    AUDI_OIL_LEVEL_WARN: 3.8796
+  response: 7E8056211BD25E3
