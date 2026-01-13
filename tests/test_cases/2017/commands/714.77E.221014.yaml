@@ -1,0 +1,14 @@
+command_id: 714.77E.221014
+test_cases:
+- expected_values:
+    AUDI_AAT: 108
+    AUDI_DASH_AMBIENT_AIR_T: 29
+  response: 77E046210149E
+- expected_values:
+    AUDI_AAT: 109
+    AUDI_DASH_AMBIENT_AIR_T: 29.5
+  response: 77E046210149F
+- expected_values:
+    AUDI_AAT: 110
+    AUDI_DASH_AMBIENT_AIR_T: 30
+  response: 77E04621014A0
