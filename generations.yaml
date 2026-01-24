@@ -4,8 +4,13 @@ references:
 generations:
   - name: "First Generation (8U)"
     start_year: 2011
+    end_year: 2014
+    description: "The original Audi Q3 was a compact luxury crossover SUV built on the Volkswagen Group A5 (PQ35) platform, produced from June 2011 to 2014. It featured a design influenced by the larger Q5 but with more compact proportions. Engine options included four-cylinder TFSI petrol and TDI diesel units, with front-wheel drive or quattro all-wheel drive. The RS Q3 performance variant was introduced in 2013, featuring a turbocharged five-cylinder engine producing up to 367 HP in Performance trim."
+
+  - name: "First Generation (8U; 2014 Facelift)"
+    start_year: 2014
     end_year: 2018
-    description: "The original Audi Q3 was a compact luxury crossover SUV built on the Volkswagen Group A5 (PQ35) platform, produced from June 2011 to 2018. It featured a design influenced by the larger Q5 but with more compact proportions. Engine options included four-cylinder TFSI petrol and TDI diesel units, with front-wheel drive or quattro all-wheel drive. The RS Q3 performance variant was introduced in 2013, featuring a turbocharged five-cylinder engine producing up to 367 HP in Performance trim. A facelift in 2014 updated the styling and technology, including redesigned front lights, grille, and interior upgrades, continuing through the generation's end in 2018."
+    description: "A facelift in 2014 updated the styling and technology for the first-generation Q3, including redesigned front lights with re-profiled LEDs, a wider chrome-surrounded grille, enlarged lower air vents, body-coloured wheel arch surrounds and door sills, and reshaped rear bumper design. The interior received a new steering wheel design and optional blind spot and lane departure warning systems. Engine performance was improved across the range, with the 1.4-litre TFSI gaining cylinder-on-demand technology. The RS Q3 gained 30 PS over the previous model, with torque uprated to 332 lbft (450 Nm). Production continued through 2018."
 
   - name: "Second Generation (F3)"
     start_year: 2018

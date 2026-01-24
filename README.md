@@ -1,6 +1,6 @@
 # Audi Q3
 
-This repository contains signal set configurations for the Audi Q3, organized by model year and version. The files are structured to allow for easy differentiation between model generations and other vehicle parameters, ensuring accurate signal mapping for each version.
+This repository contains signal set configurations for the Audi Q3, organized by model year and version. The files are structured to allow for easy differentiation between model generations and other vehicle parameters, ensuring accurate signal mapping for each version of the Audi Q3.
 
 ## Contributing
 
