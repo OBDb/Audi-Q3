@@ -1,6 +1,12 @@
 command_id: 713.77D.221804|fc=1
 test_cases:
 - expected_values:
+    AUDI_STEER_WHEEL_ANGLE_ABS: 1337
+  response: |-
+    77D101162180473437F
+    77D21307EFB82258221
+    77D220BF0210AAAAAAA
+- expected_values:
     AUDI_STEER_WHEEL_ANGLE_ABS: 796.25
   response: |-
     77D101162180473C07F
@@ -36,12 +42,6 @@ test_cases:
     77D10116218047EDC7F
     77D219E7F707F747F83
     77D22164016B9AAAAAA
-- expected_values:
-    AUDI_STEER_WHEEL_ANGLE_ABS: 2500.75
-  response: |-
-    77D10116218047EFB7F
-    77D21807F52806E8073
-    77D22165416ABAAAAAA
 - expected_values:
     AUDI_STEER_WHEEL_ANGLE_ABS: 2500.75
   response: |-
