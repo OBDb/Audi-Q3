@@ -1,0 +1,29 @@
+command_id: 714.77E.222294|din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_DIST_EMPTY: 513
+  response: '77E056222940201'
+- expected_values:
+    Q3_PQ35_DIST_EMPTY: 517
+  response: '77E056222940205'
+- expected_values:
+    Q3_PQ35_DIST_EMPTY: 518
+  response: '77E056222940206'
+- expected_values:
+    Q3_PQ35_DIST_EMPTY: 520
+  response: '77E056222940208'
+- expected_values:
+    Q3_PQ35_DIST_EMPTY: 523
+  response: 77E05622294020B
+- expected_values:
+    Q3_PQ35_DIST_EMPTY: 527
+  response: 77E05622294020F
+- expected_values:
+    Q3_PQ35_DIST_EMPTY: 529
+  response: '77E056222940211'
+- expected_values:
+    Q3_PQ35_DIST_EMPTY: 531
+  response: '77E056222940213'
+- expected_values:
+    Q3_PQ35_DIST_EMPTY: 532
+  response: '77E056222940214'

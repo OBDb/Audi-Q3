@@ -4,5 +4,5 @@ test_cases:
     Q3_PQ35_OIL_WEAR: 34
   response: 77E0562224B0022
 - expected_values:
-    Q3_PQ35_OIL_WEAR: 115
-  response: 77E0562224B0073
+    Q3_PQ35_OIL_WEAR: 116
+  response: 77E0562224B0074
