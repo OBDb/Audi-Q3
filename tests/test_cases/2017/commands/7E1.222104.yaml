@@ -1,0 +1,11 @@
+command_id: 7E1.222104
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 56
+  response: '7E9056221043800'
+- expected_values:
+    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 62
+  response: 7E9056221043E00
+- expected_values:
+    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 68
+  response: '7E9056221044400'

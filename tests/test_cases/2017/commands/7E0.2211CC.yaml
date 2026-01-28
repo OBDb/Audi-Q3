@@ -1,0 +1,17 @@
+command_id: 7E0.2211CC
+test_cases:
+- expected_values:
+    Q3_PQ35_BOOST_REG_FDBK: 42.85
+  response: 7E8056211CC10BD
+- expected_values:
+    Q3_PQ35_BOOST_REG_FDBK: 54.84
+  response: 7E8056211CC156C
+- expected_values:
+    Q3_PQ35_BOOST_REG_FDBK: 60.43
+  response: 7E8056211CC179B
+- expected_values:
+    Q3_PQ35_BOOST_REG_FDBK: 81.9
+  response: 7E8056211CC1FFE
+- expected_values:
+    Q3_PQ35_BOOST_REG_FDBK: 81.97
+  response: 7E8056211CC2005

@@ -1,0 +1,20 @@
+command_id: 7E1.222104
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 59
+  response: 7E9056221043B00
+- expected_values:
+    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 60
+  response: 7E9056221043C00
+- expected_values:
+    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 61
+  response: 7E9056221043D00
+- expected_values:
+    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 69
+  response: '7E9056221044500'
+- expected_values:
+    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 70
+  response: '7E9056221044600'
+- expected_values:
+    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 71
+  response: '7E9056221044700'

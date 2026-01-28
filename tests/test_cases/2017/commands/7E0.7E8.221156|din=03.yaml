@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221156|din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_DIST_LAST_REGEN: 120.082
+  response: 7E8076211560001D512
+- expected_values:
+    Q3_PQ35_DIST_LAST_REGEN: 120.147
+  response: 7E8076211560001D553
+- expected_values:
+    Q3_PQ35_DIST_LAST_REGEN: 120.347
+  response: 7E8076211560001D61B
+- expected_values:
+    Q3_PQ35_DIST_LAST_REGEN: 120.868
+  response: 7E8076211560001D824
+- expected_values:
+    Q3_PQ35_DIST_LAST_REGEN: 122.102
+  response: 7E8076211560001DCF6

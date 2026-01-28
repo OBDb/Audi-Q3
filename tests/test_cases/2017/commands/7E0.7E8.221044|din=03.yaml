@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221044|din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_DPF_SURF_T: 48.4
+  response: 7E8056210440C8F
+- expected_values:
+    Q3_PQ35_DPF_SURF_T: 100.1
+  response: 7E8056210440E94
