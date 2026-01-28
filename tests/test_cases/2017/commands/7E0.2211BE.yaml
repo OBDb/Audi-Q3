@@ -1,0 +1,17 @@
+command_id: 7E0.2211BE
+test_cases:
+- expected_values:
+    Q3_PQ35_OIL_T_2: 56.1
+  response: 7E8056211BE0CDC
+- expected_values:
+    Q3_PQ35_OIL_T_2: 60.7
+  response: 7E8056211BE0D0A
+- expected_values:
+    Q3_PQ35_OIL_T_2: 63.8
+  response: 7E8056211BE0D29
+- expected_values:
+    Q3_PQ35_OIL_T_2: 68
+  response: 7E8056211BE0D53
+- expected_values:
+    Q3_PQ35_OIL_T_2: 73.9
+  response: 7E8056211BE0D8E

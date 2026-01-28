@@ -1,0 +1,32 @@
+command_id: 7E0.2211BD
+test_cases:
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 12.172
+  response: 7E8056211BD0BE3
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 12.188
+  response: 7E8056211BD0BE7
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 12.46
+  response: 7E8056211BD0C2B
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 12.732
+  response: 7E8056211BD0C6F
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 12.968
+  response: 7E8056211BD0CAA
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 13.148
+  response: 7E8056211BD0CD7
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 13.312
+  response: 7E8056211BD0D00
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 13.368
+  response: 7E8056211BD0D0E
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 13.676
+  response: 7E8056211BD0D5B
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 14.256
+  response: 7E8056211BD0DEC

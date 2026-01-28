@@ -1,0 +1,17 @@
+command_id: 7E0.22121E
+test_cases:
+- expected_values:
+    Q3_PQ35_FUEL_P_REG_SPEC: 282000
+  response: 7E80562121E0B04
+- expected_values:
+    Q3_PQ35_FUEL_P_REG_SPEC: 288500
+  response: 7E80562121E0B45
+- expected_values:
+    Q3_PQ35_FUEL_P_REG_SPEC: 476700
+  response: 7E80562121E129F
+- expected_values:
+    Q3_PQ35_FUEL_P_REG_SPEC: 1162600
+  response: 7E80562121E2D6A
+- expected_values:
+    Q3_PQ35_FUEL_P_REG_SPEC: 1423500
+  response: 7E80562121E379B
