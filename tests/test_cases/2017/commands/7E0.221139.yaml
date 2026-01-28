@@ -1,0 +1,17 @@
+command_id: 7E0.221139
+test_cases:
+- expected_values:
+    Q3_PQ35_AVG_CYCLE_CON: 4.24
+  response: 7E80562113901A8
+- expected_values:
+    Q3_PQ35_AVG_CYCLE_CON: 6.2
+  response: 7E805621139026C
+- expected_values:
+    Q3_PQ35_AVG_CYCLE_CON: 6.26
+  response: '7E8056211390272'
+- expected_values:
+    Q3_PQ35_AVG_CYCLE_CON: 13.03
+  response: '7E8056211390517'
+- expected_values:
+    Q3_PQ35_AVG_CYCLE_CON: 21.79
+  response: '7E8056211390883'
