@@ -790,7 +790,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1526"}, "freq": 1,
   "signals": [
-    {"id": "Q3_MQB_NOX_CONC_BEHIND_TURBO", "path": "Battery", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "ppm" }, "name": "Calculated nitrogen oxide concentration behind turbocharger"}
+    {"id": "Q3_MQB_NOX_CONC_BEHIND_TURBO", "path": "Battery", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "Calculated nitrogen oxide concentration behind turbocharger"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "155A"}, "freq": 1,
   "signals": [
