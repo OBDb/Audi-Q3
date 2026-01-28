@@ -1,0 +1,6 @@
+command_id: 713.77D.22180A|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_HAL_CLUTCH_BLOCK: 0
+    Q3_MQB_HAL_CLUTCH_OPEN: 0
+  response: 77D0762180A00000000

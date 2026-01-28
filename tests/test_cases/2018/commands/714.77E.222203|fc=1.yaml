@@ -1,0 +1,8 @@
+command_id: 714.77E.222203|fc=1
+test_cases:
+- expected_values:
+    Q3_PQ35_ODO: 104450
+  response: 77E0562220328CD
+- expected_values:
+    Q3_PQ35_ODO: 104460
+  response: 77E0562220328CE
