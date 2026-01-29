@@ -1,6 +1,15 @@
 command_id: 714.77E.222206|fc=1
 test_cases:
 - expected_values:
+    Q3_PQ35_FUEL_LVL: 48
+  response: '77E0462220630'
+- expected_values:
+    Q3_PQ35_FUEL_LVL: 50
+  response: '77E0462220632'
+- expected_values:
+    Q3_PQ35_FUEL_LVL: 52
+  response: '77E0462220634'
+- expected_values:
     Q3_PQ35_FUEL_LVL: 55
   response: '77E0462220637'
 - expected_values:
