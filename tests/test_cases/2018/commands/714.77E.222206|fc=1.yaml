@@ -1,8 +1,8 @@
 command_id: 714.77E.222206|fc=1
 test_cases:
 - expected_values:
-    Q3_PQ35_FUEL_LVL: 44
-  response: 77E046222062C
+    Q3_PQ35_FUEL_LVL: 42
+  response: 77E046222062A
 - expected_values:
     Q3_PQ35_FUEL_LVL: 61
   response: 77E046222063D
