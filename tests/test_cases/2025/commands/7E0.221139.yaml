@@ -1,0 +1,5 @@
+command_id: 7E0.221139
+test_cases:
+- expected_values:
+    Q3_PQ35_AVG_CYCLE_CON: 12.13
+  response: 7E80562113904BD

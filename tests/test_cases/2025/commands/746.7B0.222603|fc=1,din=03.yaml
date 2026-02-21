@@ -1,0 +1,8 @@
+command_id: 746.7B0.222603|fc=1,din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_AC_COMP_SPD: 2000
+  response: 7B00462260314
+- expected_values:
+    Q3_PQ35_AC_COMP_SPD: 6300
+  response: 7B0046226033F
