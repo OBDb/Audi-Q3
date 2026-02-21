@@ -1,0 +1,17 @@
+command_id: 713.77D.221810|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D1009621810000000
+    77D21000385AAAAAAAA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D1009621810000000
+    77D210003BFAAAAAAAA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D1009621810000000
+    77D210003C0AAAAAAAA

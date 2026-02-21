@@ -1,0 +1,23 @@
+command_id: 70F.779.222BF3|fc=1
+test_cases:
+- expected_values:
+    Q3_PQ35_HAL_DUTY: 0
+  response: 77904622BF300
+- expected_values:
+    Q3_PQ35_HAL_DUTY: 5.51161
+  response: 77904622BF30E
+- expected_values:
+    Q3_PQ35_HAL_DUTY: 6.29898
+  response: 77904622BF310
+- expected_values:
+    Q3_PQ35_HAL_DUTY: 9.05478
+  response: 77904622BF317
+- expected_values:
+    Q3_PQ35_HAL_DUTY: 10.23584
+  response: 77904622BF31A
+- expected_values:
+    Q3_PQ35_HAL_DUTY: 16.53482
+  response: 77904622BF32A
+- expected_values:
+    Q3_PQ35_HAL_DUTY: 17.3222
+  response: 77904622BF32C

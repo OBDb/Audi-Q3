@@ -1,0 +1,18 @@
+command_id: 713.77D.22180A|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_HAL_CLUTCH_BLOCK: 0
+    Q3_MQB_HAL_CLUTCH_OPEN: 0
+  response: 77D0662180A80042A
+- expected_values:
+    Q3_MQB_HAL_CLUTCH_BLOCK: 1
+    Q3_MQB_HAL_CLUTCH_OPEN: 0
+  response: 77D0662180A801900
+- expected_values:
+    Q3_MQB_HAL_CLUTCH_BLOCK: 1
+    Q3_MQB_HAL_CLUTCH_OPEN: 0
+  response: 77D0662180A802DD5
+- expected_values:
+    Q3_MQB_HAL_CLUTCH_BLOCK: 0
+    Q3_MQB_HAL_CLUTCH_OPEN: 0
+  response: 77D0662180A900000

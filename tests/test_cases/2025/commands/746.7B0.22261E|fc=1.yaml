@@ -1,0 +1,14 @@
+command_id: 746.7B0.22261E|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_RECIRC_FLAP_ACT: 34562
+  response: 7B00662261E87027B
+- expected_values:
+    Q3_MQB_RECIRC_FLAP_ACT: 42498
+  response: 7B00662261EA602E4
+- expected_values:
+    Q3_MQB_RECIRC_FLAP_ACT: 45059
+  response: 7B00662261EB00306
+- expected_values:
+    Q3_MQB_RECIRC_FLAP_ACT: 46851
+  response: 7B00662261EB7031F
