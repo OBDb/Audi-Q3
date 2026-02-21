@@ -1,0 +1,11 @@
+command_id: 70F.779.222B1C|fc=1
+test_cases:
+- expected_values:
+    Q3_PQ35_FR_VSS: 0
+  response: 77905622B1C0000
+- expected_values:
+    Q3_PQ35_FR_VSS: 24.9
+  response: 77905622B1C00F9
+- expected_values:
+    Q3_PQ35_FR_VSS: 52.5
+  response: 77905622B1C020D

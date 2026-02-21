@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22388C
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_IGNITION_CYCLES: 41733
+  response: 7E90562388C05A3
+- expected_values:
+    Q3_MQB_TCM_IGNITION_CYCLES: 41989
+  response: 7E90562388C05A4

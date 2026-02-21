@@ -1,0 +1,6 @@
+command_id: 767.7D1.220838|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_ECALL_BAT_CRIT: 2
+    Q3_MQB_ECALL_BAT_LVL: 97
+  response: 7D1056208380261

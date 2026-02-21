@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22388B
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_DRIVE_CYCLES_COUNTER: 64513
+  response: 7E90562388B01FC
+- expected_values:
+    Q3_MQB_TCM_DRIVE_CYCLES_COUNTER: 64769
+  response: 7E90562388B01FD

@@ -1,0 +1,14 @@
+command_id: 712.77C.221812|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_SWA: 574.06
+  response: 77C0562181211F0
+- expected_values:
+    Q3_MQB_SWA: 742.31
+  response: 77C056218121732
+- expected_values:
+    Q3_MQB_SWA: 863.31
+  response: 77C056218121AFA
+- expected_values:
+    Q3_MQB_SWA: 1001.06
+  response: 77C056218121F48
