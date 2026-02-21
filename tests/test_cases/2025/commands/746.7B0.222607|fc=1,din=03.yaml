@@ -4,5 +4,5 @@ test_cases:
     Q3_PQ35_RAD_FAN_CMD: 0
   response: 7B00462260700
 - expected_values:
-    Q3_PQ35_RAD_FAN_CMD: 36.4
-  response: 7B0046226075B
+    Q3_PQ35_RAD_FAN_CMD: 42.8
+  response: 7B0046226076B
