@@ -4,5 +4,5 @@ test_cases:
     Q3_PQ35_OIL_FILL_LEVEL: 4.56
   response: 7E805622006004C
 - expected_values:
-    Q3_PQ35_OIL_FILL_LEVEL: 5.64
-  response: 7E805622006005E
+    Q3_PQ35_OIL_FILL_LEVEL: 5.7
+  response: 7E805622006005F

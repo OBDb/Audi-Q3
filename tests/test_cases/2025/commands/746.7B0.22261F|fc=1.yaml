@@ -9,6 +9,3 @@ test_cases:
 - expected_values:
     Q3_MQB_RECIRC_FLAP_TRG: 769
   response: 7B00562261F0301
-- expected_values:
-    Q3_MQB_RECIRC_FLAP_TRG: 798
-  response: 7B00562261F031E

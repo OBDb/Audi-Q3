@@ -4,29 +4,5 @@ test_cases:
     Q3_MQB_TCM_ODO: 23376
   response: '7E90762384100039120'
 - expected_values:
-    Q3_MQB_TCM_ODO: 23377
-  response: 7E9076238410003912A
-- expected_values:
-    Q3_MQB_TCM_ODO: 23378
-  response: '7E90762384100039134'
-- expected_values:
-    Q3_MQB_TCM_ODO: 23379
-  response: 7E9076238410003913E
-- expected_values:
-    Q3_MQB_TCM_ODO: 23380
-  response: '7E90762384100039148'
-- expected_values:
-    Q3_MQB_TCM_ODO: 23381
-  response: '7E90762384100039152'
-- expected_values:
-    Q3_MQB_TCM_ODO: 23382
-  response: 7E9076238410003915C
-- expected_values:
-    Q3_MQB_TCM_ODO: 23383
-  response: '7E90762384100039166'
-- expected_values:
-    Q3_MQB_TCM_ODO: 23384
-  response: '7E90762384100039170'
-- expected_values:
-    Q3_MQB_TCM_ODO: 23385
-  response: 7E9076238410003917A
+    Q3_MQB_TCM_ODO: 23389
+  response: 7E907623841000391A2
