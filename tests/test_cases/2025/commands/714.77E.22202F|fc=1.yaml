@@ -1,8 +1,8 @@
 command_id: 714.77E.22202F|fc=1
 test_cases:
 - expected_values:
-    Q3_PQ35_OIL_T: 52
-  response: 77E0462202F6E
+    Q3_PQ35_OIL_T: 16
+  response: 77E0462202F4A
 - expected_values:
     Q3_PQ35_OIL_T: 109
   response: 77E0462202FA7
