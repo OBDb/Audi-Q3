@@ -7,5 +7,5 @@ test_cases:
     Q3_PQ35_DIST_EMPTY: 255
   response: 77E0562229400FF
 - expected_values:
-    Q3_PQ35_DIST_EMPTY: 513
-  response: '77E056222940201'
+    Q3_PQ35_DIST_EMPTY: 512
+  response: '77E056222940200'
