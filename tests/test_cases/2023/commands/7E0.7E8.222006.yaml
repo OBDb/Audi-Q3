@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.222006
+test_cases:
+- expected_values:
+    Q3_PQ35_OIL_FILL_LEVEL: 4.2
+  response: '7E8056220060046'
+- expected_values:
+    Q3_PQ35_OIL_FILL_LEVEL: 4.26
+  response: '7E8056220060047'
+- expected_values:
+    Q3_PQ35_OIL_FILL_LEVEL: 4.5
+  response: 7E805622006004B
+- expected_values:
+    Q3_PQ35_OIL_FILL_LEVEL: 5.1
+  response: '7E8056220060055'
+- expected_values:
+    Q3_PQ35_OIL_FILL_LEVEL: 5.16
+  response: '7E8056220060056'
+- expected_values:
+    Q3_PQ35_OIL_FILL_LEVEL: 5.22
+  response: '7E8056220060057'

@@ -1,0 +1,26 @@
+command_id: 746.7B0.222604|fc=1,din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_AC_COMP_LOAD: 9.1
+  response: 7B0046226045B
+- expected_values:
+    Q3_PQ35_AC_COMP_LOAD: 10.3
+  response: 7B00462260467
+- expected_values:
+    Q3_PQ35_AC_COMP_LOAD: 10.4
+  response: 7B00462260468
+- expected_values:
+    Q3_PQ35_AC_COMP_LOAD: 10.5
+  response: 7B00462260469
+- expected_values:
+    Q3_PQ35_AC_COMP_LOAD: 10.6
+  response: 7B0046226046A
+- expected_values:
+    Q3_PQ35_AC_COMP_LOAD: 12.3
+  response: 7B0046226047B
+- expected_values:
+    Q3_PQ35_AC_COMP_LOAD: 12.4
+  response: 7B0046226047C
+- expected_values:
+    Q3_PQ35_AC_COMP_LOAD: 12.6
+  response: 7B0046226047E
