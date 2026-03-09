@@ -1,0 +1,23 @@
+command_id: 746.7B0.222606|fc=1,din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_RAD_FAN_DUTY: 38
+  response: 7B0046226065F
+- expected_values:
+    Q3_PQ35_RAD_FAN_DUTY: 39.2
+  response: 7B00462260662
+- expected_values:
+    Q3_PQ35_RAD_FAN_DUTY: 40
+  response: 7B00462260664
+- expected_values:
+    Q3_PQ35_RAD_FAN_DUTY: 41.2
+  response: 7B00462260667
+- expected_values:
+    Q3_PQ35_RAD_FAN_DUTY: 54
+  response: 7B00462260687
+- expected_values:
+    Q3_PQ35_RAD_FAN_DUTY: 55.2
+  response: 7B0046226068A
+- expected_values:
+    Q3_PQ35_RAD_FAN_DUTY: 56
+  response: 7B0046226068C

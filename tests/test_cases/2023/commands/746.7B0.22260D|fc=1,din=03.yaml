@@ -1,0 +1,29 @@
+command_id: 746.7B0.22260D|fc=1,din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_FR_DEFL_T: 38.295
+  response: 7B00462260D73
+- expected_values:
+    Q3_PQ35_FR_DEFL_T: 42.291
+  response: 7B00462260D7F
+- expected_values:
+    Q3_PQ35_FR_DEFL_T: 42.624
+  response: 7B00462260D80
+- expected_values:
+    Q3_PQ35_FR_DEFL_T: 42.957
+  response: 7B00462260D81
+- expected_values:
+    Q3_PQ35_FR_DEFL_T: 43.29
+  response: 7B00462260D82
+- expected_values:
+    Q3_PQ35_FR_DEFL_T: 43.623
+  response: 7B00462260D83
+- expected_values:
+    Q3_PQ35_FR_DEFL_T: 44.955
+  response: 7B00462260D87
+- expected_values:
+    Q3_PQ35_FR_DEFL_T: 48.618
+  response: 7B00462260D92
+- expected_values:
+    Q3_PQ35_FR_DEFL_T: 49.95
+  response: 7B00462260D96

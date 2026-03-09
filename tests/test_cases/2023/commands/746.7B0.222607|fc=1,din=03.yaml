@@ -1,0 +1,8 @@
+command_id: 746.7B0.222607|fc=1,din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_RAD_FAN_CMD: 34.4
+  response: 7B00462260756
+- expected_values:
+    Q3_PQ35_RAD_FAN_CMD: 58
+  response: 7B00462260791

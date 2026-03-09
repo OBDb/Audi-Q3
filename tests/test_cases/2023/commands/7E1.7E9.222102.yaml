@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.222102
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_INPUT_SPD: 0
+  response: '7E9056221020000'
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_INPUT_SPD: 18.25
+  response: '7E9056221020049'
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_INPUT_SPD: 72.75
+  response: '7E9056221020123'
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_INPUT_SPD: 198.75
+  response: 7E905622102031B
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_INPUT_SPD: 199
+  response: 7E905622102031C
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_INPUT_SPD: 207
+  response: 7E905622102033C

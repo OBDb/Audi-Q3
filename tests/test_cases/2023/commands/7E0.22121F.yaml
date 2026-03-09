@@ -1,0 +1,8 @@
+command_id: 7E0.22121F
+test_cases:
+- expected_values:
+    Q3_PQ35_FUEL_P_CTL_DEV: 594100
+  response: 7E80562121F1735
+- expected_values:
+    Q3_PQ35_FUEL_P_CTL_DEV: 594200
+  response: 7E80562121F1736

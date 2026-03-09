@@ -1,0 +1,29 @@
+command_id: 746.7B0.222611|fc=1,din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 36.63
+  response: 7B0046226116E
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 39.294
+  response: 7B00462261176
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 39.627
+  response: 7B00462261177
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 39.96
+  response: 7B00462261178
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 40.626
+  response: 7B0046226117A
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 40.959
+  response: 7B0046226117B
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 42.624
+  response: 7B00462261180
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 46.953
+  response: 7B0046226118D
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 48.285
+  response: 7B00462261191
