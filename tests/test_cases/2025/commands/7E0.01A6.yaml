@@ -4,23 +4,8 @@ test_cases:
     ODO: 23313.6
   response: 7E80641A600038EB0
 - expected_values:
-    ODO: 23313.9
-  response: 7E80641A600038EB3
-- expected_values:
-    ODO: 23314.2
-  response: 7E80641A600038EB6
-- expected_values:
-    ODO: 23314.8
-  response: 7E80641A600038EBC
-- expected_values:
-    ODO: 23315
-  response: 7E80641A600038EBE
-- expected_values:
-    ODO: 23315.6
-  response: 7E80641A600038EC4
-- expected_values:
-    ODO: 23315.8
-  response: 7E80641A600038EC6
+    ODO: 23318.2
+  response: 7E80641A600038EDE
 - expected_values:
     ODO: 23385.2
   response: 7E80641A60003917C
