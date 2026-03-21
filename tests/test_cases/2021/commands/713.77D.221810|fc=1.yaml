@@ -9,4 +9,9 @@ test_cases:
     Q3_MQB_HYD_BRK_BST_ACT: 0
   response: |-
     77D100C62181001FFF6
+    77D21FC5500000288AA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C62181001FFF6
     77D21FC5800000000AA

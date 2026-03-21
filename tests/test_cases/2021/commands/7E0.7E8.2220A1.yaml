@@ -4,5 +4,11 @@ test_cases:
     Q3_PQ35_CALCULATED_OIL_T: -38
   response: 7E8056220A10276
 - expected_values:
+    Q3_PQ35_CALCULATED_OIL_T: -38
+  response: 7E8056220A102C6
+- expected_values:
+    Q3_PQ35_CALCULATED_OIL_T: -38
+  response: 7E8056220A102D0
+- expected_values:
     Q3_PQ35_CALCULATED_OIL_T: -37
   response: 7E8056220A1038E

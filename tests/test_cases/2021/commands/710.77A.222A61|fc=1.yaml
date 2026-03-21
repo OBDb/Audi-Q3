@@ -36,3 +36,15 @@ test_cases:
   response: |-
     77A100B622A61000110
     77A21EE00011174AAAA
+- expected_values:
+    Q3_MQB_BAT_TOT_CHG: 6988.1
+    Q3_MQB_BAT_TOT_DIS: 7000.5
+  response: |-
+    77A100B622A61000110
+    77A21F900011175AAAA
+- expected_values:
+    Q3_MQB_BAT_TOT_CHG: 6988.2
+    Q3_MQB_BAT_TOT_DIS: 7000.5
+  response: |-
+    77A100B622A61000110
+    77A21FA00011175AAAA
