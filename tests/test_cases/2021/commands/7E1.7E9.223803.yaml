@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     Q3_MQB_TCM_BRAKE_P: -261.01
   response: 7E9056238030B9A
+- expected_values:
+    Q3_MQB_TCM_BRAKE_P: -184.21
+  response: 7E9056238030BB8
+- expected_values:
+    Q3_MQB_TCM_BRAKE_P: 235.65
+  response: 7E9056238030D5C
