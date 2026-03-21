@@ -1,6 +1,12 @@
 command_id: 710.77A.222A09
 test_cases:
 - expected_values:
+    Q3_MQB_BAT_I: 18.042
+  response: 77A07622A090000467A
+- expected_values:
+    Q3_MQB_BAT_I: 19.056
+  response: 77A07622A0900004A70
+- expected_values:
     Q3_MQB_BAT_I: -15.454
   response: 77A07622A09FFFFC3A2
 - expected_values:
