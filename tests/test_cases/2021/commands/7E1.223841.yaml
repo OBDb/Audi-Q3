@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     Q3_MQB_TCM_ODO: 43399
   response: 7E90762384100069F46
+- expected_values:
+    Q3_MQB_TCM_ODO: 43400
+  response: 7E90762384100069F50
+- expected_values:
+    Q3_MQB_TCM_ODO: 43401
+  response: 7E90762384100069F5A

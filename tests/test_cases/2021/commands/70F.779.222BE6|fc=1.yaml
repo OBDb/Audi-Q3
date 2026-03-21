@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     Q3_PQ35_HAL_I: 0.005
   response: 77905622BE60005
+- expected_values:
+    Q3_PQ35_HAL_I: 1.306
+  response: 77905622BE6051A
+- expected_values:
+    Q3_PQ35_HAL_I: 1.578
+  response: 77905622BE6062A
+- expected_values:
+    Q3_PQ35_HAL_I: 1.652
+  response: 77905622BE60674

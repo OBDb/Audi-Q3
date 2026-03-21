@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     Q3_PQ35_RL_VSS: 0
   response: 77905622B1D0000
+- expected_values:
+    Q3_PQ35_RL_VSS: 11
+  response: 77905622B1D006E
+- expected_values:
+    Q3_PQ35_RL_VSS: 13.1
+  response: 77905622B1D0083
+- expected_values:
+    Q3_PQ35_RL_VSS: 54.9
+  response: 77905622B1D0225

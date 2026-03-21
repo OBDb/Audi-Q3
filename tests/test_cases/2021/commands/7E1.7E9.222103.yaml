@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     Q3_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 0
   response: '7E9056221030000'
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 96.75
+  response: '7E9056221030183'
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 293
+  response: '7E9056221030494'
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 300.25
+  response: 7E90562210304B1
