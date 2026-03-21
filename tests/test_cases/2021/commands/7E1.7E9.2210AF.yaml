@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2210AF
+test_cases:
+- expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_GR: 209.92
+  response: 7E9076210AF0052B9E4
+- expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_GR: 209.92
+  response: 7E9076210AF0052BA52
