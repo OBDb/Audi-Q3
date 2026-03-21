@@ -13,5 +13,14 @@ test_cases:
     Q3_PQ35_DPF_DIFF_P_2: 3493
   response: 7E8056210F30DA5
 - expected_values:
+    Q3_PQ35_DPF_DIFF_P_2: 3530
+  response: 7E8056210F30DCA
+- expected_values:
+    Q3_PQ35_DPF_DIFF_P_2: 3579
+  response: 7E8056210F30DFB
+- expected_values:
+    Q3_PQ35_DPF_DIFF_P_2: 3745
+  response: 7E8056210F30EA1
+- expected_values:
     Q3_PQ35_DPF_DIFF_P_2: 3793
   response: 7E8056210F30ED1

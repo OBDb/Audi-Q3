@@ -10,5 +10,20 @@ test_cases:
     Q3_PQ35_CALCULATED_OIL_T: -38
   response: 7E8056220A102D0
 - expected_values:
+    Q3_PQ35_CALCULATED_OIL_T: -38
+  response: 7E8056220A102E4
+- expected_values:
+    Q3_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A1030C
+- expected_values:
+    Q3_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A10334
+- expected_values:
+    Q3_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A10366
+- expected_values:
     Q3_PQ35_CALCULATED_OIL_T: -37
   response: 7E8056220A1038E
+- expected_values:
+    Q3_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A103A2

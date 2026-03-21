@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     Q3_PQ35_CHARGE_AIR_P_ACTUAL: 77.28
   response: 7E80562202A03C6
+- expected_values:
+    Q3_PQ35_CHARGE_AIR_P_ACTUAL: 77.52
+  response: 7E80562202A03C9
+- expected_values:
+    Q3_PQ35_CHARGE_AIR_P_ACTUAL: 77.76
+  response: 7E80562202A03CC
+- expected_values:
+    Q3_PQ35_CHARGE_AIR_P_ACTUAL: 78
+  response: 7E80562202A03CF
+- expected_values:
+    Q3_PQ35_CHARGE_AIR_P_ACTUAL: 78.48
+  response: 7E80562202A03D5
+- expected_values:
+    Q3_PQ35_CHARGE_AIR_P_ACTUAL: 78.8
+  response: 7E80562202A03D9

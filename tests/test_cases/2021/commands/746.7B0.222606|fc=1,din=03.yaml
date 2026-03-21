@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q3_PQ35_RAD_FAN_DUTY: 10
   response: 7B00462260619
+- expected_values:
+    Q3_PQ35_RAD_FAN_DUTY: 14
+  response: 7B00462260623

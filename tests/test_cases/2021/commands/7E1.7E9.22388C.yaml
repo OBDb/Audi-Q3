@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q3_MQB_TCM_IGNITION_CYCLES: 6939
   response: 7E90562388C1B1B
+- expected_values:
+    Q3_MQB_TCM_IGNITION_CYCLES: 7195
+  response: 7E90562388C1B1C

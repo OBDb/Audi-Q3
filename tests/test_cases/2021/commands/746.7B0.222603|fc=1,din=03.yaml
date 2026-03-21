@@ -7,5 +7,11 @@ test_cases:
     Q3_PQ35_AC_COMP_SPD: 2100
   response: 7B00462260315
 - expected_values:
+    Q3_PQ35_AC_COMP_SPD: 2500
+  response: 7B00462260319
+- expected_values:
     Q3_PQ35_AC_COMP_SPD: 2600
   response: 7B0046226031A
+- expected_values:
+    Q3_PQ35_AC_COMP_SPD: 3900
+  response: 7B00462260327

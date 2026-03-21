@@ -3,8 +3,23 @@ test_cases:
 - expected_values:
     Q3_MQB_HYD_BRK_BST_ACT: 0
   response: |-
+    77D100C6218100101CC
+    77D21FC7B0000020AAA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
     77D100C62181001FFEC
     77D21FC5800000000AA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C62181001FFF6
+    77D21FC5200000000AA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C62181001FFF6
+    77D21FC540000029AAA
 - expected_values:
     Q3_MQB_HYD_BRK_BST_ACT: 0
   response: |-
@@ -15,3 +30,8 @@ test_cases:
   response: |-
     77D100C62181001FFF6
     77D21FC5800000000AA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C62181001FFF6
+    77D21FC5F00000276AA

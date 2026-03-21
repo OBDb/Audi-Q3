@@ -2,6 +2,15 @@ command_id: 746.7B0.222612|fc=1,din=03
 test_cases:
 - expected_values:
     Q3_PQ35_EVAP_OUT_T: 0.666
+  response: 7B005622612025D
+- expected_values:
+    Q3_PQ35_EVAP_OUT_T: 0.666
+  response: 7B0056226120267
+- expected_values:
+    Q3_PQ35_EVAP_OUT_T: 0.666
+  response: 7B0056226120277
+- expected_values:
+    Q3_PQ35_EVAP_OUT_T: 0.666
   response: 7B005622612027F
 - expected_values:
     Q3_PQ35_EVAP_OUT_T: 0.666
