@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     ECT: 67
   response: 7E80341056B
+- expected_values:
+    ECT: 88
+  response: '7E803410580'
+- expected_values:
+    ECT: 93
+  response: '7E803410585'

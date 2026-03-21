@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.227064
 test_cases:
 - expected_values:
+    Q3_MQB_TCM_ENG_TORQUE: 3
+  response: '7E9056270640003'
+- expected_values:
     Q3_MQB_TCM_ENG_TORQUE: 23
   response: '7E9056270640017'
 - expected_values:
