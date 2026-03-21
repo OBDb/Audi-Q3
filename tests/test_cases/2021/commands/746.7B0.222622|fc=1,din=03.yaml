@@ -1,0 +1,14 @@
+command_id: 746.7B0.222622|fc=1,din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 72
+  response: 7B006622622060090
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 80
+  response: 7B0066226220A00A0
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 86
+  response: 7B0066226220D00AC
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 91
+  response: 7B0066226220F00B6

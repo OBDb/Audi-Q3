@@ -1,0 +1,11 @@
+command_id: 746.7B0.222611|fc=1,din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 44.622
+  response: 7B00462261186
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 45.288
+  response: 7B00462261188
+- expected_values:
+    Q3_PQ35_LEG_DEFL_T: 45.621
+  response: 7B00462261189
