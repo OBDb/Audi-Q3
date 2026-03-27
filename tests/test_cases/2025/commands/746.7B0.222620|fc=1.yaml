@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q3_MQB_RECIRC_FLAP_FRESH_THR: 167
   response: 7B00562262000A7
+- expected_values:
+    Q3_MQB_RECIRC_FLAP_FRESH_THR: 174
+  response: 7B00562262000AE
