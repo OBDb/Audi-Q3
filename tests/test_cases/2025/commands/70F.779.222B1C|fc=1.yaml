@@ -7,5 +7,5 @@ test_cases:
     Q3_PQ35_FR_VSS: 76.7
   response: 77905622B1C02FF
 - expected_values:
-    Q3_PQ35_FR_VSS: 77.9
-  response: 77905622B1C030B
+    Q3_PQ35_FR_VSS: 77.3
+  response: 77905622B1C0305
