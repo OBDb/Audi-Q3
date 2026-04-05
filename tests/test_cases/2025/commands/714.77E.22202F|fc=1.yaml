@@ -4,5 +4,8 @@ test_cases:
     Q3_PQ35_OIL_T: 10
   response: 77E0462202F44
 - expected_values:
+    Q3_PQ35_OIL_T: 93
+  response: 77E0462202F97
+- expected_values:
     Q3_PQ35_OIL_T: 197
   response: 77E0462202FFF
