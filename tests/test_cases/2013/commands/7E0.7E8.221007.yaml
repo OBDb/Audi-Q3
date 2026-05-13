@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221007
+test_cases:
+- expected_values:
+    Q3_PQ35_CAMS_START: 1102.2
+  response: '7E8056210071587'
+- expected_values:
+    Q3_PQ35_CAMS_START: 1102.8
+  response: 7E805621007158A
+- expected_values:
+    Q3_PQ35_CAMS_START: 1103.2
+  response: 7E805621007158C
+- expected_values:
+    Q3_PQ35_CAMS_START: 1104
+  response: '7E8056210071590'
+- expected_values:
+    Q3_PQ35_CAMS_START: 1105.6
+  response: '7E8056210071598'

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221148
+test_cases:
+- expected_values:
+    Q3_PQ35_FUEL_METER: 26.83
+  response: 7E8056211480A7B
+- expected_values:
+    Q3_PQ35_FUEL_METER: 27.19
+  response: 7E8056211480A9F
+- expected_values:
+    Q3_PQ35_FUEL_METER: 28.89
+  response: 7E8056211480B49
+- expected_values:
+    Q3_PQ35_FUEL_METER: 29.24
+  response: 7E8056211480B6C
+- expected_values:
+    Q3_PQ35_FUEL_METER: 34.77
+  response: 7E8056211480D95

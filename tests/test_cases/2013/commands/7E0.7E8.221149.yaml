@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221149
+test_cases:
+- expected_values:
+    Q3_PQ35_BOOST_P_CMD: 1034
+  response: 7E805621149040A
+- expected_values:
+    Q3_PQ35_BOOST_P_CMD: 1041
+  response: '7E8056211490411'
+- expected_values:
+    Q3_PQ35_BOOST_P_CMD: 1043
+  response: '7E8056211490413'
+- expected_values:
+    Q3_PQ35_BOOST_P_CMD: 1044
+  response: '7E8056211490414'
+- expected_values:
+    Q3_PQ35_BOOST_P_CMD: 1106
+  response: '7E8056211490452'

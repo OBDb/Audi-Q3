@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2210FF
+test_cases:
+- expected_values:
+    Q3_PQ35_INJ_DEV_CYL_1: 0.13
+  response: 7E8056210FF000D
+- expected_values:
+    Q3_PQ35_INJ_DEV_CYL_1: -0.64
+  response: 7E8056210FFFFC0
+- expected_values:
+    Q3_PQ35_INJ_DEV_CYL_1: -0.46
+  response: 7E8056210FFFFD2
+- expected_values:
+    Q3_PQ35_INJ_DEV_CYL_1: -0.15
+  response: 7E8056210FFFFF1
+- expected_values:
+    Q3_PQ35_INJ_DEV_CYL_1: -0.13
+  response: 7E8056210FFFFF3
+- expected_values:
+    Q3_PQ35_INJ_DEV_CYL_1: -0.03
+  response: 7E8056210FFFFFD

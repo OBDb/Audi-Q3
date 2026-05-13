@@ -1,0 +1,17 @@
+command_id: 7E0.2211BD
+test_cases:
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 21.872
+  response: 7E8056211BD155C
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 21.936
+  response: 7E8056211BD156C
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 22.188
+  response: 7E8056211BD15AB
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 22.42
+  response: 7E8056211BD15E5
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 22.532
+  response: 7E8056211BD1601

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2211E6
+test_cases:
+- expected_values:
+    Q3_MQB_DPF_EXH_VOL: 51.9
+  response: 7E8056211E60207
+- expected_values:
+    Q3_MQB_DPF_EXH_VOL: 54.5
+  response: 7E8056211E60221
+- expected_values:
+    Q3_MQB_DPF_EXH_VOL: 55.6
+  response: 7E8056211E6022C
+- expected_values:
+    Q3_MQB_DPF_EXH_VOL: 56.6
+  response: 7E8056211E60236
+- expected_values:
+    Q3_MQB_DPF_EXH_VOL: 74.9
+  response: 7E8056211E602ED
+- expected_values:
+    Q3_MQB_DPF_EXH_VOL: 115.7
+  response: 7E8056211E60485

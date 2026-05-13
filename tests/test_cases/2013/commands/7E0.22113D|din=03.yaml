@@ -1,0 +1,20 @@
+command_id: 7E0.22113D|din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_O2_SEN_1_LAMBDA: 45.04
+  response: 7E80562113D1198
+- expected_values:
+    Q3_PQ35_O2_SEN_1_LAMBDA: 68.96
+  response: 7E80562113D1AF0
+- expected_values:
+    Q3_PQ35_O2_SEN_1_LAMBDA: 74.62
+  response: 7E80562113D1D26
+- expected_values:
+    Q3_PQ35_O2_SEN_1_LAMBDA: 87.71
+  response: 7E80562113D2243
+- expected_values:
+    Q3_PQ35_O2_SEN_1_LAMBDA: 120.48
+  response: 7E80562113D2F10
+- expected_values:
+    Q3_PQ35_O2_SEN_1_LAMBDA: 123.45
+  response: 7E80562113D3039

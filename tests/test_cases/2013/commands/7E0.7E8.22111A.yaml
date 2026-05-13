@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22111A
+test_cases:
+- expected_values:
+    Q3_PQ35_FUEL_FLOW: 0.07
+  response: 7E80562111A0007
+- expected_values:
+    Q3_PQ35_FUEL_FLOW: 0.79
+  response: 7E80562111A004F
+- expected_values:
+    Q3_PQ35_FUEL_FLOW: 0.82
+  response: 7E80562111A0052
+- expected_values:
+    Q3_PQ35_FUEL_FLOW: 0.84
+  response: 7E80562111A0054
+- expected_values:
+    Q3_PQ35_FUEL_FLOW: 0.89
+  response: 7E80562111A0059
+- expected_values:
+    Q3_PQ35_FUEL_FLOW: 1.06
+  response: 7E80562111A006A

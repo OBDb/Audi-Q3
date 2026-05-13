@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2210F9
+test_cases:
+- expected_values:
+    Q3_PQ35_DPF_OUT_T: 96.6
+  response: 7E8056210F90E71
+- expected_values:
+    Q3_PQ35_DPF_OUT_T: 97
+  response: 7E8056210F90E75
+- expected_values:
+    Q3_PQ35_DPF_OUT_T: 124.6
+  response: 7E8056210F90F89
+- expected_values:
+    Q3_PQ35_DPF_OUT_T: 134
+  response: 7E8056210F90FE7
+- expected_values:
+    Q3_PQ35_DPF_OUT_T: 139.1
+  response: 7E8056210F9101A
