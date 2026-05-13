@@ -4,5 +4,8 @@ test_cases:
     Q3_PQ35_ODO_2: 209029
   response: 7E8076216A900033085
 - expected_values:
-    Q3_PQ35_ODO_2: 209030
-  response: 7E8076216A900033086
+    Q3_PQ35_ODO_2: 209305
+  response: 7E8076216A900033199
+- expected_values:
+    Q3_PQ35_ODO_2: 209353
+  response: 7E8076216A9000331C9
