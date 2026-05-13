@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22133B
+test_cases:
+- expected_values:
+    Q3_PQ35_CAMS_SPD: 504.6
+  response: 7E80562133B0692
+- expected_values:
+    Q3_PQ35_CAMS_SPD: 508.8
+  response: 7E80562133B06A0
+- expected_values:
+    Q3_PQ35_CAMS_SPD: 510.9
+  response: 7E80562133B06A7
+- expected_values:
+    Q3_PQ35_CAMS_SPD: 564
+  response: 7E80562133B0758
+- expected_values:
+    Q3_PQ35_CAMS_SPD: 921.3
+  response: 7E80562133B0BFF
+- expected_values:
+    Q3_PQ35_CAMS_SPD: 1259.1
+  response: 7E80562133B1065

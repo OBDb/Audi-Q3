@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2214D1
+test_cases:
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_DURATION: 0
+  response: 7E8056214D10000
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_DURATION: 0.2792
+  response: 7E8056214D102BA
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_DURATION: 0.3292
+  response: 7E8056214D10337
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_DURATION: 0.3676
+  response: 7E8056214D10397
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_DURATION: 0.382
+  response: 7E8056214D103BB

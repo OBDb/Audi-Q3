@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210FB
+test_cases:
+- expected_values:
+    Q3_PQ35_EXH_GAS_T_1: 20
+  response: 7E8056210FB0B73
+- expected_values:
+    Q3_PQ35_EXH_GAS_T_1: 120.2
+  response: 7E8056210FB0F5D
+- expected_values:
+    Q3_PQ35_EXH_GAS_T_1: 123.8
+  response: 7E8056210FB0F81
+- expected_values:
+    Q3_PQ35_EXH_GAS_T_1: 193.9
+  response: 7E8056210FB123E

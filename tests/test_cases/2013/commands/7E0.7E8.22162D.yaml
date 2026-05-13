@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22162D
+test_cases:
+- expected_values:
+    Q3_PQ35_FUEL_T: 14.9
+  response: 7E80562162D0B40
+- expected_values:
+    Q3_PQ35_FUEL_T: 15.5
+  response: 7E80562162D0B46
+- expected_values:
+    Q3_PQ35_FUEL_T: 16.1
+  response: 7E80562162D0B4C
+- expected_values:
+    Q3_PQ35_FUEL_T: 16.7
+  response: 7E80562162D0B52

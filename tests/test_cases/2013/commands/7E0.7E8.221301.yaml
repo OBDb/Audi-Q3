@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221301
+test_cases:
+- expected_values:
+    Q3_PQ35_LIM_SMOKE: 174.2
+  response: 7E80562130106CE
+- expected_values:
+    Q3_PQ35_LIM_SMOKE: 179.7
+  response: '7E8056213010705'
+- expected_values:
+    Q3_PQ35_LIM_SMOKE: 183.2
+  response: '7E8056213010728'
+- expected_values:
+    Q3_PQ35_LIM_SMOKE: 192.4
+  response: '7E8056213010784'
+- expected_values:
+    Q3_PQ35_LIM_SMOKE: 217.3
+  response: 7E805621301087D
+- expected_values:
+    Q3_PQ35_LIM_SMOKE: 237.7
+  response: '7E8056213010949'

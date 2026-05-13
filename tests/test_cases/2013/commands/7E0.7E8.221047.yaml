@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221047
+test_cases:
+- expected_values:
+    Q3_PQ35_ENG_TRQ: 48.8
+  response: 7E80562104701E8
+- expected_values:
+    Q3_PQ35_ENG_TRQ: 51.1
+  response: 7E80562104701FF
+- expected_values:
+    Q3_PQ35_ENG_TRQ: 53.1
+  response: '7E8056210470213'
+- expected_values:
+    Q3_PQ35_ENG_TRQ: 65.5
+  response: 7E805621047028F
+- expected_values:
+    Q3_PQ35_ENG_TRQ: 95.3
+  response: 7E80562104703B9
+- expected_values:
+    Q3_PQ35_ENG_TRQ: 99.2
+  response: 7E80562104703E0

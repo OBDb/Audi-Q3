@@ -1,0 +1,23 @@
+command_id: 714.77E.22202F|fc=1
+test_cases:
+- expected_values:
+    Q3_PQ35_OIL_T: -58
+  response: 77E0462202F00
+- expected_values:
+    Q3_PQ35_OIL_T: 22
+  response: 77E0462202F50
+- expected_values:
+    Q3_PQ35_OIL_T: 24
+  response: 77E0462202F52
+- expected_values:
+    Q3_PQ35_OIL_T: 28
+  response: 77E0462202F56
+- expected_values:
+    Q3_PQ35_OIL_T: 39
+  response: 77E0462202F61
+- expected_values:
+    Q3_PQ35_OIL_T: 47
+  response: 77E0462202F69
+- expected_values:
+    Q3_PQ35_OIL_T: 49
+  response: 77E0462202F6B

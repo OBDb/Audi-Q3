@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221024
+test_cases:
+- expected_values:
+    Q3_MQB_AIR_MASS_1: 50.4
+  response: 7E80562102401F8
+- expected_values:
+    Q3_MQB_AIR_MASS_1: 50.7
+  response: 7E80562102401FB
+- expected_values:
+    Q3_MQB_AIR_MASS_1: 51.1
+  response: 7E80562102401FF
+- expected_values:
+    Q3_MQB_AIR_MASS_1: 52.1
+  response: '7E8056210240209'
+- expected_values:
+    Q3_MQB_AIR_MASS_1: 64.4
+  response: '7E8056210240284'
+- expected_values:
+    Q3_MQB_AIR_MASS_1: 112.9
+  response: '7E8056210240469'
