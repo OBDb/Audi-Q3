@@ -1,0 +1,8 @@
+command_id: 7E0.2216A9|din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_ODO_2: 209029
+  response: 7E8076216A900033085
+- expected_values:
+    Q3_PQ35_ODO_2: 209030
+  response: 7E8076216A900033086

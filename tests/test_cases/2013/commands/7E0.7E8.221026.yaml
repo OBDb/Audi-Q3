@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221026
+test_cases:
+- expected_values:
+    Q3_MQB_MAF_1_B1_RAW: 505.2
+  response: 7E80562102613BC
+- expected_values:
+    Q3_MQB_MAF_1_B1_RAW: 505.6
+  response: 7E80562102613C0
+- expected_values:
+    Q3_MQB_MAF_1_B1_RAW: 510.9
+  response: 7E80562102613F5
+- expected_values:
+    Q3_MQB_MAF_1_B1_RAW: 578.1
+  response: '7E8056210261695'
+- expected_values:
+    Q3_MQB_MAF_1_B1_RAW: 584.4
+  response: 7E80562102616D4

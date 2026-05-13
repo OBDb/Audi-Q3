@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221169
+test_cases:
+- expected_values:
+    Q3_PQ35_FUEL_P_HIGH: 305100
+  response: 7E8056211690BEB
+- expected_values:
+    Q3_PQ35_FUEL_P_HIGH: 324600
+  response: 7E8056211690CAE
+- expected_values:
+    Q3_PQ35_FUEL_P_HIGH: 327100
+  response: 7E8056211690CC7
+- expected_values:
+    Q3_PQ35_FUEL_P_HIGH: 331900
+  response: 7E8056211690CF7
+- expected_values:
+    Q3_PQ35_FUEL_P_HIGH: 483400
+  response: 7E80562116912E2
+- expected_values:
+    Q3_PQ35_FUEL_P_HIGH: 632300
+  response: 7E80562116918B3

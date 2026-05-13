@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211A6
+test_cases:
+- expected_values:
+    Q3_PQ35_LIM_ACCEL_PED: 0
+  response: 7E8056211A60000
+- expected_values:
+    Q3_PQ35_LIM_ACCEL_PED: 39.1
+  response: 7E8056211A60187
+- expected_values:
+    Q3_PQ35_LIM_ACCEL_PED: 79.3
+  response: 7E8056211A60319
+- expected_values:
+    Q3_PQ35_LIM_ACCEL_PED: 85.5
+  response: 7E8056211A60357

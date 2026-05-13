@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2214C8
+test_cases:
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_START: 7.5
+  response: 7E8056214C80177
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_START: 7.86
+  response: 7E8056214C80189
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_START: 7.92
+  response: 7E8056214C8018C
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_START: 11.86
+  response: 7E8056214C80251
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_START: 13.62
+  response: 7E8056214C802A9
+- expected_values:
+    Q3_PQ35_PRE_INJ_2_START: 19.78
+  response: 7E8056214C803DD

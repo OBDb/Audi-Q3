@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22103C
+test_cases:
+- expected_values:
+    Q3_MQB_INT_MAN_P: 1051
+  response: 7E80562103C041B
+- expected_values:
+    Q3_MQB_INT_MAN_P: 1052
+  response: 7E80562103C041C
+- expected_values:
+    Q3_MQB_INT_MAN_P: 1071
+  response: 7E80562103C042F
+- expected_values:
+    Q3_MQB_INT_MAN_P: 1174
+  response: 7E80562103C0496
+- expected_values:
+    Q3_MQB_INT_MAN_P: 1195
+  response: 7E80562103C04AB
+- expected_values:
+    Q3_MQB_INT_MAN_P: 1297
+  response: 7E80562103C0511

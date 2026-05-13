@@ -1,0 +1,20 @@
+command_id: 7E0.221187
+test_cases:
+- expected_values:
+    Q3_PQ35_ACCEL: 0
+  response: '7E8056211870000'
+- expected_values:
+    Q3_PQ35_ACCEL: 0.108
+  response: 7E805621187006C
+- expected_values:
+    Q3_PQ35_ACCEL: -0.265
+  response: 7E805621187FEF7
+- expected_values:
+    Q3_PQ35_ACCEL: -0.225
+  response: 7E805621187FF1F
+- expected_values:
+    Q3_PQ35_ACCEL: -0.22
+  response: 7E805621187FF24
+- expected_values:
+    Q3_PQ35_ACCEL: -0.094
+  response: 7E805621187FFA2
