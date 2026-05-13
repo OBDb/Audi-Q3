@@ -1,17 +1,11 @@
 command_id: 714.77E.222294|din=03
 test_cases:
 - expected_values:
-    Q3_PQ35_DIST_EMPTY: 508
-  response: 77E0562229401FC
+    Q3_PQ35_DIST_EMPTY: 169
+  response: 77E0562229400A9
+- expected_values:
+    Q3_PQ35_DIST_EMPTY: 511
+  response: 77E0562229401FF
 - expected_values:
     Q3_PQ35_DIST_EMPTY: 513
   response: '77E056222940201'
-- expected_values:
-    Q3_PQ35_DIST_EMPTY: 516
-  response: '77E056222940204'
-- expected_values:
-    Q3_PQ35_DIST_EMPTY: 519
-  response: '77E056222940207'
-- expected_values:
-    Q3_PQ35_DIST_EMPTY: 523
-  response: 77E05622294020B
