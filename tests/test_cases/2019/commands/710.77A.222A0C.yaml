@@ -1,0 +1,8 @@
+command_id: 710.77A.222A0C
+test_cases:
+- expected_values:
+    Q3_MQB_BAT_CHG_COND: 47
+  response: 77A04622A0C2F
+- expected_values:
+    Q3_MQB_BAT_CHG_COND: 51
+  response: 77A04622A0C33

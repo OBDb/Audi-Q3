@@ -1,0 +1,6 @@
+command_id: 713.77D.22180E|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_BRK_DRY_ACT: 0
+    Q3_MQB_BRK_DRY_ODO_LAST: 49613
+  response: 77D0762180E8000C1CD

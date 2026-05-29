@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.223824
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_PART_2_P_ACTUAL: 0.23
+  response: '7E9056238241700'
