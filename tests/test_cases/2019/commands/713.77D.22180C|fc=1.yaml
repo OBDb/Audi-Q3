@@ -1,0 +1,11 @@
+command_id: 713.77D.22180C|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_ELEC_DIFF_ACT: 0
+    Q3_MQB_ELEC_DIFF_FL_BRK_T: 23
+    Q3_MQB_ELEC_DIFF_FR_BRK_T: 23
+    Q3_MQB_ELEC_DIFF_RL_BRK_T: 23
+    Q3_MQB_ELEC_DIFF_RR_BRK_T: 23
+  response: |-
+    77D100C62180CBC002E
+    77D21002E002E002EAA
