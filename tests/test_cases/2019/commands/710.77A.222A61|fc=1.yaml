@@ -1,0 +1,20 @@
+command_id: 710.77A.222A61|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_BAT_TOT_CHG: 10296.8
+    Q3_MQB_BAT_TOT_DIS: 9721.6
+  response: |-
+    77A100B622A61000192
+    77A213800017BC0AAAA
+- expected_values:
+    Q3_MQB_BAT_TOT_CHG: 10296.8
+    Q3_MQB_BAT_TOT_DIS: 9721.8
+  response: |-
+    77A100B622A61000192
+    77A213800017BC2AAAA
+- expected_values:
+    Q3_MQB_BAT_TOT_CHG: 10296.8
+    Q3_MQB_BAT_TOT_DIS: 9722.2
+  response: |-
+    77A100B622A61000192
+    77A213800017BC6AAAA

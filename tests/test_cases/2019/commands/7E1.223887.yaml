@@ -1,0 +1,5 @@
+command_id: 7E1.223887
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_ODO_2: 26106.4
+  response: 7E907623887C8FB0300

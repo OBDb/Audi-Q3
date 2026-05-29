@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221110
+test_cases:
+- expected_values:
+    Q3_PQ35_WORKING_HOURS: 1302.76553
+  response: 7E9076211100427FA0D
+- expected_values:
+    Q3_PQ35_WORKING_HOURS: 1302.79534
+  response: 7E907621110F93BFA0D

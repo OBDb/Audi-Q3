@@ -1,0 +1,20 @@
+command_id: 713.77D.221804|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_SWA_ALT: -38.9375
+  response: |-
+    77D1011621804FFEC00
+    77D2109007E000C01FF
+    77D22FFA7FFA7AAAAAA
+- expected_values:
+    Q3_MQB_SWA_ALT: -38.9375
+  response: |-
+    77D1011621804FFF300
+    77D2107007E000E01FF
+    77D22FFA7FFA7AAAAAA
+- expected_values:
+    Q3_MQB_SWA_ALT: -38.9375
+  response: |-
+    77D1011621804FFFE00
+    77D2106007E000D01FF
+    77D22FFA7FFA7AAAAAA
