@@ -93,7 +93,7 @@
     {"id": "Q3_MQB_BAT_TOT_CHG", "path": "Battery", "fmt": {           "len": 32, "max": 429496729.5, "div": 10, "unit": "ampereHours" }, "name": "Battery total charge"},
     {"id": "Q3_MQB_BAT_TOT_DIS", "path": "Battery", "fmt": {"bix": 32, "len": 32, "max": 429496729.5, "div": 10, "unit": "ampereHours" }, "name": "Battery total discharge"}
   ]},
-{ "hdr": "712", "rax": "77C", "fcm1": true, "cmd": {"22": "1812"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2024], "from": 2026 },
+{ "hdr": "712", "rax": "77C", "fcm1": true, "cmd": {"22": "1812"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2024], "from": 2026 },
   "signals": [
     {"id": "Q3_MQB_SWA", "path": "Tires", "fmt": { "len": 16, "max": 4095.935, "min": -4095.94, "div": 8, "add": 0.06, "sign": true, "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
