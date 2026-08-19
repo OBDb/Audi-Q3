@@ -13,5 +13,8 @@ test_cases:
     Q3_PQ35_HAL_DUTY: 3.14949
   response: 77905622BF30800
 - expected_values:
+    Q3_PQ35_HAL_DUTY: 3.54318
+  response: 77905622BF30900
+- expected_values:
     Q3_PQ35_HAL_DUTY: 3.93686
   response: 77905622BF30A00
