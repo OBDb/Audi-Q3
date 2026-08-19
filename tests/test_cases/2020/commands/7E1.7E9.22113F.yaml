@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22113F
+test_cases:
+- expected_values:
+    Q3_MQB_DQ250_SYNCHRONOUS_POS_SIDE_A_GEAR_SELECTOR_6_R: 46.19
+  response: 7E90562113F0B12

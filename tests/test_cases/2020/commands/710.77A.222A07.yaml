@@ -1,0 +1,32 @@
+command_id: 710.77A.222A07
+test_cases:
+- expected_values:
+    Q3_MQB_BAT_V: 14.524
+  response: 77A05622A07291C
+- expected_values:
+    Q3_MQB_BAT_V: 14.531
+  response: 77A05622A072923
+- expected_values:
+    Q3_MQB_BAT_V: 14.537
+  response: 77A05622A072929
+- expected_values:
+    Q3_MQB_BAT_V: 14.548
+  response: 77A05622A072934
+- expected_values:
+    Q3_MQB_BAT_V: 14.56
+  response: 77A05622A072940
+- expected_values:
+    Q3_MQB_BAT_V: 14.565
+  response: 77A05622A072945
+- expected_values:
+    Q3_MQB_BAT_V: 14.568
+  response: 77A05622A072948
+- expected_values:
+    Q3_MQB_BAT_V: 14.572
+  response: 77A05622A07294C
+- expected_values:
+    Q3_MQB_BAT_V: 14.576
+  response: 77A05622A072950
+- expected_values:
+    Q3_MQB_BAT_V: 14.577
+  response: 77A05622A072951

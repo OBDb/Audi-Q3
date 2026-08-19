@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.22100C
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE: 13
+  response: 7E90562100C0401
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE: 9
+  response: 7E90562100CB400
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE: -3
+  response: 7E90562100CC4FF
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE: 10
+  response: 7E90562100CC800
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE: 11
+  response: 7E90562100CDC00
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE: 12
+  response: 7E90562100CF000
