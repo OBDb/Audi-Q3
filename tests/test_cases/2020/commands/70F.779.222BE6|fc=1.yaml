@@ -1,0 +1,29 @@
+command_id: 70F.779.222BE6|fc=1
+test_cases:
+- expected_values:
+    Q3_PQ35_HAL_I: 1.2
+  response: 77905622BE604B0
+- expected_values:
+    Q3_PQ35_HAL_I: 1.249
+  response: 77905622BE604E1
+- expected_values:
+    Q3_PQ35_HAL_I: 1.273
+  response: 77905622BE604F9
+- expected_values:
+    Q3_PQ35_HAL_I: 1.297
+  response: 77905622BE60511
+- expected_values:
+    Q3_PQ35_HAL_I: 1.346
+  response: 77905622BE60542
+- expected_values:
+    Q3_PQ35_HAL_I: 1.37
+  response: 77905622BE6055A
+- expected_values:
+    Q3_PQ35_HAL_I: 1.516
+  response: 77905622BE605EC
+- expected_values:
+    Q3_PQ35_HAL_I: 1.589
+  response: 77905622BE60635
+- expected_values:
+    Q3_PQ35_HAL_I: 1.614
+  response: 77905622BE6064E

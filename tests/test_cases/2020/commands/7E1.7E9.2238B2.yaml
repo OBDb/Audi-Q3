@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.2238B2
+test_cases:
+- expected_values:
+    Q3_PQ35_CENTRIFUGAL_OIL_T: 23
+  response: 7E9056238B21700
+- expected_values:
+    Q3_PQ35_CENTRIFUGAL_OIL_T: 25
+  response: 7E9056238B21900
+- expected_values:
+    Q3_PQ35_CENTRIFUGAL_OIL_T: 29
+  response: 7E9056238B21D00
+- expected_values:
+    Q3_PQ35_CENTRIFUGAL_OIL_T: 31
+  response: 7E9056238B21F00
+- expected_values:
+    Q3_PQ35_CENTRIFUGAL_OIL_T: 33
+  response: 7E9056238B22100
+- expected_values:
+    Q3_PQ35_CENTRIFUGAL_OIL_T: 35
+  response: 7E9056238B22300

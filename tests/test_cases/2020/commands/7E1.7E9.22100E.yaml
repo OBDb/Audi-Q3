@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.22100E
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LIMITATION: 196
+  response: 7E90562100E500F
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LIMITATION: 200
+  response: 7E90562100EA00F
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LIMITATION: 201
+  response: 7E90562100EB40F
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LIMITATION: 202
+  response: 7E90562100EC80F
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LIMITATION: 203
+  response: 7E90562100EDC0F

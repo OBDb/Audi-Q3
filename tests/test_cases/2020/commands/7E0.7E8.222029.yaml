@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222029
+test_cases:
+- expected_values:
+    Q3_PQ35_CHARGE_AIR_P_SPECIFIED: 82.08
+  response: '7E8056220290402'
+- expected_values:
+    Q3_PQ35_CHARGE_AIR_P_SPECIFIED: 82.16
+  response: '7E8056220290403'

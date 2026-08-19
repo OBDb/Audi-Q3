@@ -1,0 +1,8 @@
+command_id: 746.7B0.222613|fc=1,din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_CAB_T: 21.7
+  response: 7B00562261300D9
+- expected_values:
+    Q3_PQ35_CAB_T: 24.4
+  response: 7B00562261300F4

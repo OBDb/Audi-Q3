@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.2238EB
+test_cases:
+- expected_values:
+    Q3_PQ35_CLUTCH_1_ACTUAL_P: 0.15
+  response: 7E9056238EB0F00
+- expected_values:
+    Q3_PQ35_CLUTCH_1_ACTUAL_P: 0.16
+  response: 7E9056238EB1000
+- expected_values:
+    Q3_PQ35_CLUTCH_1_ACTUAL_P: 0.17
+  response: 7E9056238EB1100
+- expected_values:
+    Q3_PQ35_CLUTCH_1_ACTUAL_P: 0.18
+  response: 7E9056238EB1200
+- expected_values:
+    Q3_PQ35_CLUTCH_1_ACTUAL_P: 0.19
+  response: 7E9056238EB1300
+- expected_values:
+    Q3_PQ35_CLUTCH_1_ACTUAL_P: 0.2
+  response: 7E9056238EB1400

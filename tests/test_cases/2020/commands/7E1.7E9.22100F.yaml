@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.22100F
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LOSS: -24
+  response: 7E90562100F20FE
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LOSS: -11
+  response: 7E90562100F24FF
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LOSS: -23
+  response: 7E90562100F34FE
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LOSS: -22
+  response: 7E90562100F48FE
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LOSS: -21
+  response: 7E90562100F5CFE
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LOSS: -28
+  response: 7E90562100FD0FD

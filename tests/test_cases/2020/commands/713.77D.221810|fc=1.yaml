@@ -1,0 +1,42 @@
+command_id: 713.77D.221810|fc=1
+test_cases:
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C6218100110CC
+    77D21FC250000029AAA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C6218100110D6
+    77D21FC240000029AAA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C6218100110FE
+    77D21FC25000002ACAA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C621810011112
+    77D21FC24000002ACAA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C62181001116C
+    77D21FC36000001B0AA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C62181001128E
+    77D21FC26000002BEAA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C6218100112A2
+    77D21FC28000002BEAA
+- expected_values:
+    Q3_MQB_HYD_BRK_BST_ACT: 0
+  response: |-
+    77D100C621810011392
+    77D21FC28000002BEAA
