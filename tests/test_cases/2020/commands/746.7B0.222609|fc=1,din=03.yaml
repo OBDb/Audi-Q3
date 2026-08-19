@@ -1,5 +1,8 @@
 command_id: 746.7B0.222609|fc=1,din=03
 test_cases:
 - expected_values:
+    Q3_PQ35_OUT_T: 14
+  response: 7B0046226091C
+- expected_values:
     Q3_PQ35_OUT_T: 15
   response: 7B0046226091E

@@ -2,9 +2,9 @@ command_id: 713.77D.221816|fc=1
 test_cases:
 - expected_values:
     Q3_MQB_AIR_VAC: 0
-    Q3_MQB_BRK_PRESS: 43
+    Q3_MQB_BRK_PRESS: 37.1
   response: |-
-    77D100E6218160110CC
+    77D100E621816010E7E
     77D21FFFFFFFFFC25FF
     77D22FEAAAAAAAAAAAA
 - expected_values:

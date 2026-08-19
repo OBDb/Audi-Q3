@@ -4,6 +4,9 @@ test_cases:
     Q3_MQB_TCM_ENGINE_TORQUE: 13
   response: 7E90562100C0401
 - expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE: 6
+  response: 7E90562100C7800
+- expected_values:
     Q3_MQB_TCM_ENGINE_TORQUE: 9
   response: 7E90562100CB400
 - expected_values:
