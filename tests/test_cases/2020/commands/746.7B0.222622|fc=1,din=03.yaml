@@ -1,0 +1,26 @@
+command_id: 746.7B0.222622|fc=1,din=03
+test_cases:
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 52
+  response: 7B006622622008768
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 54.5
+  response: 7B006622622008C6D
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 66.5
+  response: 7B00662262200A585
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 77
+  response: 7B00662262200BA9A
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 83.5
+  response: 7B00662262200C8A7
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 90
+  response: 7B00662262200D5B4
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 90.5
+  response: 7B00662262200D6B5
+- expected_values:
+    Q3_PQ35_FL_TEMP_FLAP: 100
+  response: 7B00662262200E9C8

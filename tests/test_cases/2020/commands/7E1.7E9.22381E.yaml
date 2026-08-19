@@ -1,0 +1,26 @@
+command_id: 7E1.7E9.22381E
+test_cases:
+- expected_values:
+    Q3_MQB_TCM_EOP_ACTUAL_I: 794.4
+  response: 7E90562381E081F
+- expected_values:
+    Q3_MQB_TCM_EOP_ACTUAL_I: 795
+  response: 7E90562381E0E1F
+- expected_values:
+    Q3_MQB_TCM_EOP_ACTUAL_I: 795.3
+  response: 7E90562381E111F
+- expected_values:
+    Q3_MQB_TCM_EOP_ACTUAL_I: 795.4
+  response: 7E90562381E121F
+- expected_values:
+    Q3_MQB_TCM_EOP_ACTUAL_I: 795.6
+  response: 7E90562381E141F
+- expected_values:
+    Q3_MQB_TCM_EOP_ACTUAL_I: 795.7
+  response: 7E90562381E151F
+- expected_values:
+    Q3_MQB_TCM_EOP_ACTUAL_I: 795.8
+  response: 7E90562381E161F
+- expected_values:
+    Q3_MQB_TCM_EOP_ACTUAL_I: 795.9
+  response: 7E90562381E171F
