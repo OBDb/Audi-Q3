@@ -1,17 +1,8 @@
 command_id: 70F.779.222BE7|fc=1
 test_cases:
 - expected_values:
-    Q3_PQ35_HAL_PWM: 14
-  response: 77904622BE70E
+    Q3_PQ35_HAL_PWM: 0
+  response: 77904622BE700
 - expected_values:
-    Q3_PQ35_HAL_PWM: 15
-  response: 77904622BE70F
-- expected_values:
-    Q3_PQ35_HAL_PWM: 16
-  response: 77904622BE710
-- expected_values:
-    Q3_PQ35_HAL_PWM: 17
-  response: 77904622BE711
-- expected_values:
-    Q3_PQ35_HAL_PWM: 19
-  response: 77904622BE713
+    Q3_PQ35_HAL_PWM: 34
+  response: 77904622BE722
