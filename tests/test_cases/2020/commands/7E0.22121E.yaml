@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q3_PQ35_FUEL_P_REG_SPEC: 146100
   response: 7E80562121E05B5
+- expected_values:
+    Q3_PQ35_FUEL_P_REG_SPEC: 146200
+  response: 7E80562121E05B6
