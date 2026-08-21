@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q3_PQ35_FUEL_P_CTL_DEV: 473100
   response: 7E80562121F127B
+- expected_values:
+    Q3_PQ35_FUEL_P_CTL_DEV: 473500
+  response: 7E80562121F127F
