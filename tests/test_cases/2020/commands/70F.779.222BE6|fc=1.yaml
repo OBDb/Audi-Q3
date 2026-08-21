@@ -7,5 +7,5 @@ test_cases:
     Q3_PQ35_HAL_I: 1.273
   response: 77905622BE604F9
 - expected_values:
-    Q3_PQ35_HAL_I: 3.195
-  response: 77905622BE60C7B
+    Q3_PQ35_HAL_I: 3.365
+  response: 77905622BE60D25
