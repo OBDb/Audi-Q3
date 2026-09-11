@@ -4,11 +4,11 @@ test_cases:
     Q3_MQB_BAT_V: 12.128
   response: 77A05622A071FC0
 - expected_values:
-    Q3_MQB_BAT_V: 12.445
-  response: 77A05622A0720FD
+    Q3_MQB_BAT_V: 12.446
+  response: 77A05622A0720FE
 - expected_values:
     Q3_MQB_BAT_V: 12.962
   response: 77A05622A072302
 - expected_values:
-    Q3_MQB_BAT_V: 14.773
-  response: 77A05622A072A15
+    Q3_MQB_BAT_V: 14.771
+  response: 77A05622A072A13
