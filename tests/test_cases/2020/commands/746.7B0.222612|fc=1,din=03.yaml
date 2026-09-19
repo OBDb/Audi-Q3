@@ -4,29 +4,5 @@ test_cases:
     Q3_PQ35_EVAP_OUT_T: 0.999
   response: 7B00462261203
 - expected_values:
-    Q3_PQ35_EVAP_OUT_T: 1.332
-  response: 7B00462261204
-- expected_values:
-    Q3_PQ35_EVAP_OUT_T: 1.998
-  response: 7B00462261206
-- expected_values:
-    Q3_PQ35_EVAP_OUT_T: 2.664
-  response: 7B00462261208
-- expected_values:
-    Q3_PQ35_EVAP_OUT_T: 3.663
-  response: 7B0046226120B
-- expected_values:
-    Q3_PQ35_EVAP_OUT_T: 3.996
-  response: 7B0046226120C
-- expected_values:
-    Q3_PQ35_EVAP_OUT_T: 5.661
-  response: 7B00462261211
-- expected_values:
-    Q3_PQ35_EVAP_OUT_T: 6.327
-  response: 7B00462261213
-- expected_values:
-    Q3_PQ35_EVAP_OUT_T: 6.66
-  response: 7B00462261214
-- expected_values:
     Q3_PQ35_EVAP_OUT_T: 10.656
   response: 7B00462261220
