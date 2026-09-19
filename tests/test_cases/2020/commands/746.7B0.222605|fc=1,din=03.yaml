@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     Q3_PQ35_REF_P: 9.4
   response: 7B0046226052F
+- expected_values:
+    Q3_PQ35_REF_P: 10.2
+  response: 7B00462260533

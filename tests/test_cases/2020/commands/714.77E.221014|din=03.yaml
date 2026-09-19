@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Q3_PQ35_AMB_T: 15
   response: '77E0462101482'
+- expected_values:
+    Q3_PQ35_AMB_T: 26
+  response: '77E0462101498'
