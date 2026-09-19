@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q3_PQ35_OUT_T: 15
   response: 7B0046226091E
+- expected_values:
+    Q3_PQ35_OUT_T: 26
+  response: 7B00462260934
