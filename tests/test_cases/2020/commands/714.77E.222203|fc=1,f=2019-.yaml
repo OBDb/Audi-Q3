@@ -1,8 +1,8 @@
-command_id: 714.77E.222203|fc=1
+command_id: 714.77E.222203|fc=1,f=2019-
 test_cases:
 - expected_values:
-    Q3_PQ35_ODO: 1930
+    Q3_ODO_DASH: 49476
   response: 77E0662220300C144
 - expected_values:
-    Q3_PQ35_ODO: 1930
+    Q3_ODO_DASH: 49498
   response: 77E0662220300C15A
