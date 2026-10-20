@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     Q3_PQ35_ODO: 117050
   response: 77E056222032DB9
+- expected_values:
+    Q3_PQ35_ODO: 117060
+  response: 77E056222032DBA
