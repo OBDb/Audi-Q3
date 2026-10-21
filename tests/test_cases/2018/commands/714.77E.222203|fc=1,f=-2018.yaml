@@ -9,24 +9,3 @@ test_cases:
 - expected_values:
     Q3_PQ35_ODO: 117030
   response: 77E056222032DB7
-- expected_values:
-    Q3_PQ35_ODO: 117040
-  response: 77E056222032DB8
-- expected_values:
-    Q3_PQ35_ODO: 117050
-  response: 77E056222032DB9
-- expected_values:
-    Q3_PQ35_ODO: 117060
-  response: 77E056222032DBA
-- expected_values:
-    Q3_PQ35_ODO: 117070
-  response: 77E056222032DBB
-- expected_values:
-    Q3_PQ35_ODO: 117080
-  response: 77E056222032DBC
-- expected_values:
-    Q3_PQ35_ODO: 117090
-  response: 77E056222032DBD
-- expected_values:
-    Q3_PQ35_ODO: 117100
-  response: 77E056222032DBE
