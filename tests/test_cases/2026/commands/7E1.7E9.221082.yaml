@@ -1,5 +1,14 @@
 command_id: 7E1.7E9.221082
 test_cases:
 - expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G1: -9.08
+  response: 7E90562108274FC
+- expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G1: -9.07
+  response: 7E90562108275FC
+- expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G1: -9.02
+  response: 7E9056210827AFC
+- expected_values:
     Q3_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G1: -8.84
   response: 7E9056210828CFC

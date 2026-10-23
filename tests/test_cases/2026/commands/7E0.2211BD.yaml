@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     Q3_PQ35_OIL_LVL_CRIT: 12.244
   response: 7E8056211BD0BF5
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 13.768
+  response: 7E8056211BD0D72
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 14.148
+  response: 7E8056211BD0DD1
+- expected_values:
+    Q3_PQ35_OIL_LVL_CRIT: 14.328
+  response: 7E8056211BD0DFE

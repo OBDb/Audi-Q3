@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     Q3_PQ35_GANGSTELLER_B_ADAPT_NEUTRALPOS: 0.04
   response: '7E9056210920400'
+- expected_values:
+    Q3_PQ35_GANGSTELLER_B_ADAPT_NEUTRALPOS: 0.05
+  response: '7E9056210920500'
+- expected_values:
+    Q3_PQ35_GANGSTELLER_B_ADAPT_NEUTRALPOS: 0.06
+  response: '7E9056210920600'

@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     Q3_MQB_TCM_ENGINE_TORQUE_LIMITATION: 209
   response: 7E90562100E5410
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LIMITATION: 171
+  response: 7E90562100E5C0D
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LIMITATION: 96
+  response: 7E90562100E8007
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LIMITATION: 99
+  response: 7E90562100EBC07

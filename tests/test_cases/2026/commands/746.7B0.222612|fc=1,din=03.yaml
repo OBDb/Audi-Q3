@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     Q3_PQ35_EVAP_OUT_T: 0.666
   response: 7B0056226120278
+- expected_values:
+    Q3_PQ35_EVAP_OUT_T: 0.666
+  response: 7B00562261202C4
+- expected_values:
+    Q3_PQ35_EVAP_OUT_T: 0.666
+  response: 7B00562261202C6
+- expected_values:
+    Q3_PQ35_EVAP_OUT_T: 0.666
+  response: 7B00562261202CD

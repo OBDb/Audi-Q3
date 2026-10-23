@@ -1,5 +1,11 @@
 command_id: 7E1.7E9.22386A
 test_cases:
 - expected_values:
+    Q3_MQB_DQ250_ACUTAL_POS_GEAR_POSER_D: 0.22
+  response: 7E90562386A1600
+- expected_values:
     Q3_MQB_DQ250_ACUTAL_POS_GEAR_POSER_D: 0.32
   response: 7E90562386A2000
+- expected_values:
+    Q3_MQB_DQ250_ACUTAL_POS_GEAR_POSER_D: 9.08
+  response: 7E90562386A8C03

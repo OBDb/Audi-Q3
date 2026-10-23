@@ -1,5 +1,14 @@
 command_id: 7E1.7E9.2238EC
 test_cases:
 - expected_values:
+    Q3_PQ35_CLUTCH_1_CMD_P: 0
+  response: 7E9056238EC0000
+- expected_values:
+    Q3_PQ35_CLUTCH_1_CMD_P: 2.68
+  response: 7E9056238EC0C01
+- expected_values:
     Q3_PQ35_CLUTCH_1_CMD_P: 3.67
   response: 7E9056238EC6F01
+- expected_values:
+    Q3_PQ35_CLUTCH_1_CMD_P: 2.27
+  response: 7E9056238ECE300

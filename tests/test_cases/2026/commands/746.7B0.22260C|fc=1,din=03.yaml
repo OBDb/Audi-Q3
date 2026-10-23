@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Q3_PQ35_FL_DEFL_T: 41.292
   response: 7B00462260C7C
+- expected_values:
+    Q3_PQ35_FL_DEFL_T: 45.288
+  response: 7B00462260C88

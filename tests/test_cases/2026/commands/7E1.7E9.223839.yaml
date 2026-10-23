@@ -1,5 +1,11 @@
 command_id: 7E1.7E9.223839
 test_cases:
 - expected_values:
+    Q3_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: -100
+  response: 7E90562383930F8
+- expected_values:
     Q3_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: -99.3
   response: 7E9056238393EF8
+- expected_values:
+    Q3_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: -99.25
+  response: 7E9056238393FF8

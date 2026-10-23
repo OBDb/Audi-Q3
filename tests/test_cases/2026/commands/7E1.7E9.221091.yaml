@@ -1,5 +1,14 @@
 command_id: 7E1.7E9.221091
 test_cases:
 - expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G2: -2.01
+  response: 7E90562109137FF
+- expected_values:
     Q3_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G2: -1.99
   response: 7E90562109139FF
+- expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G2: -1.97
+  response: 7E9056210913BFF
+- expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G2: -1.94
+  response: 7E9056210913EFF

@@ -4,5 +4,14 @@ test_cases:
     Q3_MQB_SWA: 444.685
   response: 77C056218120DE5
 - expected_values:
+    Q3_MQB_SWA: 747.435
+  response: 77C05621812175B
+- expected_values:
+    Q3_MQB_SWA: 750.06
+  response: 77C056218121770
+- expected_values:
     Q3_MQB_SWA: 773.935
   response: 77C05621812182F
+- expected_values:
+    Q3_MQB_SWA: 780.685
+  response: 77C056218121865

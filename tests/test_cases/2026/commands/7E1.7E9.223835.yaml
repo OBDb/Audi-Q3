@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     Q3_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 620
   response: '7E9056238353818'
+- expected_values:
+    Q3_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 519
+  response: '7E9056238354614'
+- expected_values:
+    Q3_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 43
+  response: 7E905623835AE01
+- expected_values:
+    Q3_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 49
+  response: 7E905623835EA01

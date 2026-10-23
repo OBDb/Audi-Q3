@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     Q3_PQ35_CAB_T: 31.1
   response: 7B0056226130137
+- expected_values:
+    Q3_PQ35_CAB_T: 32.2
+  response: 7B0056226130142
+- expected_values:
+    Q3_PQ35_CAB_T: 32.4
+  response: 7B0056226130144
+- expected_values:
+    Q3_PQ35_CAB_T: 32.6
+  response: 7B0056226130146

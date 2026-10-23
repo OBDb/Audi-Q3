@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q3_PQ35_CLUTCH_2_SUCCESSFUL_ADAPTS_COUNTER: 34
   response: 7E9056210EA2200
+- expected_values:
+    Q3_PQ35_CLUTCH_2_SUCCESSFUL_ADAPTS_COUNTER: 35
+  response: 7E9056210EA2300
