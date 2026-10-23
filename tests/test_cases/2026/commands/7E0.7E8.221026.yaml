@@ -13,5 +13,14 @@ test_cases:
     Q3_MQB_MAF_1_B1_RAW: 149.9
   response: 7E80562102605DB
 - expected_values:
+    Q3_MQB_MAF_1_B1_RAW: 199.8
+  response: 7E80562102607CE
+- expected_values:
     Q3_MQB_MAF_1_B1_RAW: 272.3
   response: 7E8056210260AA3
+- expected_values:
+    Q3_MQB_MAF_1_B1_RAW: 276.3
+  response: 7E8056210260ACB
+- expected_values:
+    Q3_MQB_MAF_1_B1_RAW: 337
+  response: 7E8056210260D2A

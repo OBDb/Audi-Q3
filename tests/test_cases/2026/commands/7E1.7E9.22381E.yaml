@@ -1,5 +1,11 @@
 command_id: 7E1.7E9.22381E
 test_cases:
 - expected_values:
+    Q3_MQB_TCM_EOP_ACTUAL_I: 980
+  response: 7E90562381E4826
+- expected_values:
     Q3_MQB_TCM_EOP_ACTUAL_I: 965
   response: 7E90562381EB225
+- expected_values:
+    Q3_MQB_TCM_EOP_ACTUAL_I: 914
+  response: 7E90562381EB423

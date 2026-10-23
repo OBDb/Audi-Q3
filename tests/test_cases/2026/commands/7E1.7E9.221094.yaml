@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q3_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G4: 8.67
   response: '7E9056210946303'
+- expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G4: 8.89
+  response: '7E9056210947903'

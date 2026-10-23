@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     Q3_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0.03
   response: 7E90562385A0300
+- expected_values:
+    Q3_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0.07
+  response: 7E90562385A0700
+- expected_values:
+    Q3_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0.08
+  response: 7E90562385A0800
+- expected_values:
+    Q3_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0
+  response: 7E90562385A11FC

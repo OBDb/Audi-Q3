@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     Q3_ODO_DASH: 1278
   response: 77E066222030004FE
+- expected_values:
+    Q3_ODO_DASH: 1288
+  response: '77E06622203000508'
+- expected_values:
+    Q3_ODO_DASH: 1289
+  response: '77E06622203000509'

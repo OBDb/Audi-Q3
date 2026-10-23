@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     Q3_PQ35_CLUTCH_1_T: 31
   response: 7E90562102B1F00
+- expected_values:
+    Q3_PQ35_CLUTCH_1_T: 85
+  response: 7E90562102B5500
+- expected_values:
+    Q3_PQ35_CLUTCH_1_T: 91
+  response: 7E90562102B5B00
+- expected_values:
+    Q3_PQ35_CLUTCH_1_T: 95
+  response: 7E90562102B5F00

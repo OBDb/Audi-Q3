@@ -1,5 +1,11 @@
 command_id: 7E1.7E9.22100A
 test_cases:
 - expected_values:
+    Q3_MQB_DQ250_VEHICLE_SPD_FROM_TRANSMISSION: 52.3
+  response: 7E90562100A0B02
+- expected_values:
     Q3_MQB_DQ250_VEHICLE_SPD_FROM_TRANSMISSION: 3.4
   response: 7E90562100A2200
+- expected_values:
+    Q3_MQB_DQ250_VEHICLE_SPD_FROM_TRANSMISSION: 6.9
+  response: 7E90562100A4500

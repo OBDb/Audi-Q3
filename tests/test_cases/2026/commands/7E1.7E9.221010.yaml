@@ -1,5 +1,14 @@
 command_id: 7E1.7E9.221010
 test_cases:
 - expected_values:
+    Q3_MQB_TCM_CONVERTER_LOSS_TORQUE: 396.8
+  response: 7E9056210101F00
+- expected_values:
+    Q3_MQB_TCM_CONVERTER_LOSS_TORQUE: 409.6
+  response: '7E9056210102000'
+- expected_values:
     Q3_MQB_TCM_CONVERTER_LOSS_TORQUE: 614.4
   response: '7E9056210103000'
+- expected_values:
+    Q3_MQB_TCM_CONVERTER_LOSS_TORQUE: 793.6
+  response: 7E9056210103E00

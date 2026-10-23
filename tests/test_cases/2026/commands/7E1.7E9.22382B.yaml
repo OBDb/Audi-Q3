@@ -1,5 +1,14 @@
 command_id: 7E1.7E9.22382B
 test_cases:
 - expected_values:
+    Q3_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 0
+  response: 7E90562382B0000
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 410
+  response: 7E90562382B0410
+- expected_values:
     Q3_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 395
   response: 7E90562382B6E0F
+- expected_values:
+    Q3_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 1199
+  response: 7E90562382BD62E

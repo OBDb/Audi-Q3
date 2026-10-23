@@ -1,5 +1,14 @@
 command_id: 7E1.223841
 test_cases:
 - expected_values:
+    Q3_MQB_TCM_ODO: 327680
+  response: '7E90762384100320000'
+- expected_values:
     Q3_MQB_TCM_ODO: 220102656
   response: '7E90762384183310000'
+- expected_values:
+    Q3_MQB_TCM_ODO: 387874816
+  response: 7E907623841E7310000
+- expected_values:
+    Q3_MQB_TCM_ODO: 419751526.4
+  response: 7E907623841FA310000

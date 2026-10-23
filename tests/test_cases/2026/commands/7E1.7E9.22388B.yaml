@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Q3_MQB_TCM_DRIVE_CYCLES_COUNTER: 74
   response: 7E90562388B4A00
+- expected_values:
+    Q3_MQB_TCM_DRIVE_CYCLES_COUNTER: 75
+  response: 7E90562388B4B00

@@ -1,5 +1,11 @@
 command_id: 7E1.7E9.2210AE
 test_cases:
 - expected_values:
+    Q3_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: -0.64
+  response: 7E9056210AEC0FF
+- expected_values:
+    Q3_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: -0.61
+  response: 7E9056210AEC3FF
+- expected_values:
     Q3_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: -0.58
   response: 7E9056210AEC6FF

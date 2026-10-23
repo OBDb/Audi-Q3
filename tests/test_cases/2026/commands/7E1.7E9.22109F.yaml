@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     Q3_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G5: 1.16
   response: 7E90562109F7400
+- expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G5: 1.21
+  response: 7E90562109F7900
+- expected_values:
+    Q3_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G5: 1.26
+  response: 7E90562109F7E00

@@ -1,5 +1,14 @@
 command_id: 7E1.7E9.22100F
 test_cases:
 - expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LOSS: 17
+  response: 7E90562100F5401
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LOSS: 20
+  response: 7E90562100F9001
+- expected_values:
     Q3_MQB_TCM_ENGINE_TORQUE_LOSS: 21
   response: 7E90562100FA401
+- expected_values:
+    Q3_MQB_TCM_ENGINE_TORQUE_LOSS: 10
+  response: 7E90562100FC800
