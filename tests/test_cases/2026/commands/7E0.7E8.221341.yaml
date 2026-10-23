@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221341
+test_cases:
+- expected_values:
+    Q3_PQ35_CAMS_END: -471.4
+  response: 7E805621341F6CB
+- expected_values:
+    Q3_PQ35_CAMS_END: -450
+  response: 7E805621341F736
+- expected_values:
+    Q3_PQ35_CAMS_END: -382.4
+  response: 7E805621341F888
+- expected_values:
+    Q3_PQ35_CAMS_END: -267.8
+  response: 7E805621341FAC5
+- expected_values:
+    Q3_PQ35_CAMS_END: -255
+  response: 7E805621341FB05
+- expected_values:
+    Q3_PQ35_CAMS_END: -250.6
+  response: 7E805621341FB1B
+- expected_values:
+    Q3_PQ35_CAMS_END: -225
+  response: 7E805621341FB9B
+- expected_values:
+    Q3_PQ35_CAMS_END: -203.4
+  response: 7E805621341FC07
