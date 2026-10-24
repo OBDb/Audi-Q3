@@ -344,10 +344,6 @@
   "signals": [
     {"id": "Q3_PQ35_OIL_LVL_CRIT", "path": "Engine", "fmt": { "len": 16, "max": 131.068, "min": -131.072, "div": 250, "sign": true, "unit": "millimeters" }, "name": "Critical engine oil level"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "11BE"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2018, 2020, 2021, 2023, 2024, 2025], "from": 2027 },
-  "signals": [
-    {"id": "Q3_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Oil temperature variant"}
-  ]},
 { "hdr": "7E0", "cmd": {"22": "11CC"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2018, 2019, 2022, 2024], "from": 2026 },
   "signals": [
     {"id": "Q3_PQ35_BOOST_REG_FDBK", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Boost regulator feedback"}
@@ -676,6 +672,14 @@
   "signals": [
     {"id": "Q3_PQ35_OIL_LVL", "path": "Engine", "fmt": { "len": 16, "max": 131.068, "min": -131.072, "div": 250, "sign": true, "unit": "millimeters" }, "name": "Engine oil level"}
   ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 1, "filter": { "to": 2018 }, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016] },
+  "signals": [
+    {"id": "Q3_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -273.1, "unit": "celsius" }, "name": "Oil temperature variant"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 1, "filter": { "from": 2019 }, "dbgfilter": { "years": [2020, 2021, 2023, 2024, 2025], "from": 2027 },
+  "signals": [
+    {"id": "Q3_OIL_T_2_RAW", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "Oil temperature variant, raw"}
+  ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BF"}, "freq": 1, "filter": { "to": 2018 }, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
     {"id": "Q3_PQ35_FUEL_P_REG", "path": "Fuel", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Fuel pressure regulator position"}
@@ -812,9 +816,13 @@
   "signals": [
     {"id": "Q3_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Radiator output coolant temp: actual"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "162D"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2018], "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "162D"}, "freq": 1, "filter": { "to": 2018 }, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017] },
   "signals": [
-    {"id": "Q3_PQ35_FUEL_T", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Fuel temperature"}
+    {"id": "Q3_PQ35_FUEL_T", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -273.1, "unit": "celsius" }, "name": "Fuel temperature"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "162D"}, "freq": 1, "filter": { "from": 2019 }, "dbgfilter": { "from": 2020 },
+  "signals": [
+    {"id": "Q3_FUEL_T_RAW", "path": "Engine", "fmt": { "len": 32, "max": 4294967295, "unit": "scalar" }, "name": "Fuel temperature read, raw"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "173A"}, "freq": 1,
   "signals": [
@@ -986,7 +994,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "20A1"}, "freq": 1, "dbgfilter": { "to": 2019, "years": [2022, 2024], "from": 2026 },
   "signals": [
-    {"id": "Q3_PQ35_CALCULATED_OIL_T", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Calculated oil temperature"}
+    {"id": "Q3_PQ35_CALCULATED_OIL_T", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "Calculated oil temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2206"}, "freq": 1, "dbgfilter": { "to": 2019, "years": [2022, 2024], "from": 2026 },
   "signals": [

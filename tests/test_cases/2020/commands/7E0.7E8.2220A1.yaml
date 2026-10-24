@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2220A1
 test_cases:
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -40
+    Q3_PQ35_CALCULATED_OIL_T: 22
   response: 7E8056220A100DC
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -40
+    Q3_PQ35_CALCULATED_OIL_T: 25
   response: 7E8056220A100FA
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -39
+    Q3_PQ35_CALCULATED_OIL_T: 26
   response: 7E8056220A10104

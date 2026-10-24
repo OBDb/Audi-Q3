@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.2220A1
 test_cases:
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -38
+    Q3_PQ35_CALCULATED_OIL_T: 63
   response: 7E8056220A10276
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -38
+    Q3_PQ35_CALCULATED_OIL_T: 71
   response: 7E8056220A102C6
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -38
+    Q3_PQ35_CALCULATED_OIL_T: 72
   response: 7E8056220A102D0
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -38
+    Q3_PQ35_CALCULATED_OIL_T: 74
   response: 7E8056220A102E4
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -37
+    Q3_PQ35_CALCULATED_OIL_T: 78
   response: 7E8056220A1030C
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -37
+    Q3_PQ35_CALCULATED_OIL_T: 82
   response: 7E8056220A10334
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -37
+    Q3_PQ35_CALCULATED_OIL_T: 87
   response: 7E8056220A10366
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -37
+    Q3_PQ35_CALCULATED_OIL_T: 91
   response: 7E8056220A1038E
 - expected_values:
-    Q3_PQ35_CALCULATED_OIL_T: -37
+    Q3_PQ35_CALCULATED_OIL_T: 93
   response: 7E8056220A103A2

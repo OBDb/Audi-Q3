@@ -1,5 +1,5 @@
-command_id: 7E0.7E8.22162D
+command_id: 7E0.7E8.22162D|f=2019-
 test_cases:
 - expected_values:
-    Q3_PQ35_FUEL_T: -209.1
+    Q3_FUEL_T_RAW: 41943040
   response: 7E80762162D02800000
