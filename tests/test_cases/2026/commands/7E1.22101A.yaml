@@ -10,5 +10,8 @@ test_cases:
     Q3_PQ35_ODO_3: 656640
   response: 7E90762101A0A050000
 - expected_values:
+    Q3_PQ35_ODO_3: 1508608
+  response: 7E90762101A17050000
+- expected_values:
     Q3_PQ35_ODO_3: 16581632
   response: 7E90762101AFD040000
