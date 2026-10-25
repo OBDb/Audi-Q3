@@ -1,14 +1,14 @@
-command_id: 7E0.7E8.2211BE|f=2019-
+command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
-    Q3_OIL_T_2_RAW: -27
+    Q3_PQ35_OIL_T_2: null
   response: 7E8056211BEFFE5
 - expected_values:
-    Q3_OIL_T_2_RAW: -26
+    Q3_PQ35_OIL_T_2: null
   response: 7E8056211BEFFE6
 - expected_values:
-    Q3_OIL_T_2_RAW: -21
+    Q3_PQ35_OIL_T_2: null
   response: 7E8056211BEFFEB
 - expected_values:
-    Q3_OIL_T_2_RAW: -19
+    Q3_PQ35_OIL_T_2: null
   response: 7E8056211BEFFED
