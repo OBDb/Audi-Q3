@@ -4,5 +4,5 @@ test_cases:
     Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 15
   response: 7E9056221040F00
 - expected_values:
-    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 101
-  response: '7E9056221046500'
+    Q3_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 102
+  response: '7E9056221046600'
