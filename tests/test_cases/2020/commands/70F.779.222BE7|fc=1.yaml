@@ -4,5 +4,5 @@ test_cases:
     Q3_PQ35_HAL_PWM: 0
   response: 77904622BE700
 - expected_values:
-    Q3_PQ35_HAL_PWM: 67
-  response: 77904622BE743
+    Q3_PQ35_HAL_PWM: 88
+  response: 77904622BE758
