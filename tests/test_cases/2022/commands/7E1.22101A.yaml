@@ -1,11 +1,11 @@
 command_id: 7E1.22101A
 test_cases:
 - expected_values:
-    Q3_PQ35_ODO_3: 1076480
+    Q3_PQ35_ODO_3: 27920
   response: 7E90762101A106D0000
 - expected_values:
-    Q3_PQ35_ODO_3: 11430656
+    Q3_PQ35_ODO_3: 27566
   response: 7E90762101AAE6B0000
 - expected_values:
-    Q3_PQ35_ODO_3: 12872448
+    Q3_PQ35_ODO_3: 27588
   response: 7E90762101AC46B0000
