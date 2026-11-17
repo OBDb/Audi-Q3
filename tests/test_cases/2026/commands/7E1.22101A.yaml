@@ -1,17 +1,17 @@
 command_id: 7E1.22101A
 test_cases:
 - expected_values:
-    Q3_PQ35_ODO_3: 460032
+    Q3_PQ35_ODO_3: 1287
   response: 7E90762101A07050000
 - expected_values:
-    Q3_PQ35_ODO_3: 591104
+    Q3_PQ35_ODO_3: 1289
   response: 7E90762101A09050000
 - expected_values:
-    Q3_PQ35_ODO_3: 656640
+    Q3_PQ35_ODO_3: 1290
   response: 7E90762101A0A050000
 - expected_values:
-    Q3_PQ35_ODO_3: 1508608
+    Q3_PQ35_ODO_3: 1303
   response: 7E90762101A17050000
 - expected_values:
-    Q3_PQ35_ODO_3: 16581632
+    Q3_PQ35_ODO_3: 1277
   response: 7E90762101AFD040000

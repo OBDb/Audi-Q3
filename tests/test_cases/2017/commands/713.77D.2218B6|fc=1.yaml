@@ -2,8 +2,8 @@ command_id: 713.77D.2218B6|fc=1
 test_cases:
 - expected_values:
     Q3_MQB_CSS_ACT: 0
-    Q3_MQB_CSS_ODO_LAST: 1
-    Q3_MQB_CSS_STR_TRQ: 1
+    Q3_MQB_CSS_ODO_LAST: 555
+    Q3_MQB_CSS_STR_TRQ: 26.495
   response: |-
     77D100A6218B6010002
     77D212B677FFFAAAAAA
